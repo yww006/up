@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "dateFormatted": "2026年11月8日星期日",
+  "tool": {
+    "id": "tailwind-config",
+    "name": "Tailwind 配置可视化",
+    "description": "主题色/间距/字体/断点/阴影/动画 可视化编辑、预设导入、配置文件导出、JIT 类名预览、插件管理",
+    "category": "开发",
+    "tags": [
+      "Tailwind",
+      "配置",
+      "主题",
+      "CSS框架"
+    ],
+    "icon": "🎯",
+    "url": "tools/tailwind-config.html",
+    "featured": false
+  },
+  "totalTools": 87,
+  "dayOfYear": 313
+}
