@@ -7,21 +7,21 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:31:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:47:22 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
     <item>
       <title>🎯 Tailwind 配置可视化 — 开发</title>
-      <link>https://yww006.github.io/up/tools/tailwind-config.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/tailwind-config.html</guid>
+      <link>https://yww006.github.io/up/https://tailwindconfig.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://tailwindconfig.com/</guid>
       <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Tailwind 配置可视化</strong> (开发)</p>
         <p>主题色/间距/字体/断点/阴影/动画 可视化编辑、预设导入、配置文件导出、JIT 类名预览、插件管理</p>
         <p>标签: Tailwind, 配置, 主题, CSS框架</p>
-        <p><a href="https://yww006.github.io/up/tools/tailwind-config.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://tailwindconfig.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -29,14 +29,14 @@
 
     <item>
       <title>☁️ Neumorphism 生成器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/neumorphism.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/neumorphism.html</guid>
+      <link>https://yww006.github.io/up/https://neumorphism.io/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://neumorphism.io/</guid>
       <pubDate>Sat, 07 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Neumorphism 生成器</strong> (设计)</p>
         <p>新拟态风格可视化、双阴影/亮暗模式/圆角/深度/颜色、按钮/卡片/输入框/开关预设、CSS/Figma 导出</p>
         <p>标签: Neumorphism, 新拟态, 软UI, 阴影</p>
-        <p><a href="https://yww006.github.io/up/tools/neumorphism.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://neumorphism.io/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -44,14 +44,14 @@
 
     <item>
       <title>🔍 Glassmorphism 生成器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/glassmorphism.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/glassmorphism.html</guid>
+      <link>https://yww006.github.io/up/https://glassmorphism.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://glassmorphism.com/</guid>
       <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Glassmorphism 生成器</strong> (设计)</p>
         <p>毛玻璃效果可视化、背景模糊/透明度/边框/阴影/噪点纹理、iOS/macOS/Windows 11 预设、CSS/Tailwind 导出</p>
         <p>标签: Glassmorphism, 毛玻璃, 磨砂玻璃, CSS</p>
-        <p><a href="https://yww006.github.io/up/tools/glassmorphism.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://glassmorphism.com/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -59,14 +59,14 @@
 
     <item>
       <title>🎨 Mesh Gradient 生成器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/gradient-mesh.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/gradient-mesh.html</guid>
+      <link>https://yww006.github.io/up/https://css-gradient.com/mesh-gradient/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://css-gradient.com/mesh-gradient/</guid>
       <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Mesh Gradient 生成器</strong> (设计)</p>
         <p>网格渐变可视化编辑、控制点拖拽、模糊/透明度/颜色、导出 CSS/SVG/Canvas/PNG、动态动画预设</p>
         <p>标签: Mesh Gradient, 网格渐变, 背景, SVG</p>
-        <p><a href="https://yww006.github.io/up/tools/gradient-mesh.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://css-gradient.com/mesh-gradient/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -74,14 +74,14 @@
 
     <item>
       <title>🔍 图标搜索/下载 — 设计</title>
-      <link>https://yww006.github.io/up/tools/icon-search.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/icon-search.html</guid>
+      <link>https://yww006.github.io/up/https://icones.js.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://icones.js.org/</guid>
       <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>图标搜索/下载</strong> (设计)</p>
         <p>聚合 Lucide/Phosphor/Tabler/Heroicons/Feather/Material/FontAwesome，搜索/预览/下载 SVG/PNG/React/Vue 组件</p>
         <p>标签: 图标, SVG, Lucide, React组件, 下载</p>
-        <p><a href="https://yww006.github.io/up/tools/icon-search.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://icones.js.org/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -89,14 +89,14 @@
 
     <item>
       <title>✨ CSS 动画生成器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/animation-generator.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/animation-generator.html</guid>
+      <link>https://yww006.github.io/up/https://animista.net/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://animista.net/</guid>
       <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>CSS 动画生成器</strong> (设计)</p>
         <p>关键帧可视化编辑、缓动函数曲线、transform/opacity/color/clip-path、@property 动画、导出 CSS/JS</p>
         <p>标签: CSS, 动画, 关键帧, 缓动函数</p>
-        <p><a href="https://yww006.github.io/up/tools/animation-generator.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://animista.net/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -104,14 +104,14 @@
 
     <item>
       <title>📐 CSS 布局生成器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/layout-generator.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/layout-generator.html</guid>
+      <link>https://yww006.github.io/up/https://csslayout.io/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://csslayout.io/</guid>
       <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>CSS 布局生成器</strong> (设计)</p>
         <p>Flexbox/Grid/Masonry/Holy Grail/Sidebar/Navbar/Card/Modal 可视化构建、响应式断点、代码导出、Tailwind 类</p>
         <p>标签: CSS, 布局, Flexbox, Grid, Tailwind</p>
-        <p><a href="https://yww006.github.io/up/tools/layout-generator.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://csslayout.io/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -119,14 +119,14 @@
 
     <item>
       <title>👁️ 色盲模拟器 — 设计</title>
-      <link>https://yww006.github.io/up/tools/color-blind.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/color-blind.html</guid>
+      <link>https://yww006.github.io/up/https://www.color-blindness.com/coblis-color-blindness-simulator/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.color-blindness.com/coblis-color-blindness-simulator/</guid>
       <pubDate>Sun, 01 Nov 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>色盲模拟器</strong> (设计)</p>
         <p>上传图片/输入颜色 → 红盲/绿盲/蓝盲/全色盲模拟、对比度检查、无障碍配色建议、WCAG 合规</p>
         <p>标签: 色盲, 模拟, 无障碍, WCAG</p>
-        <p><a href="https://yww006.github.io/up/tools/color-blind.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.color-blindness.com/coblis-color-blindness-simulator/">立即使用 →</a></p>
       ]]></description>
       <category>设计</category>
     </item>
@@ -134,14 +134,14 @@
 
     <item>
       <title>😀 Emoji 选择器/搜索 — 趣味</title>
-      <link>https://yww006.github.io/up/tools/emoji-picker.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/emoji-picker.html</guid>
+      <link>https://yww006.github.io/up/https://emojipedia.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://emojipedia.org/</guid>
       <pubDate>Sat, 31 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Emoji 选择器/搜索</strong> (趣味)</p>
         <p>全 Unicode Emoji 搜索/分类/皮肤色/组合、复制字符/代码/短代码、常用/最近、自定义收藏</p>
         <p>标签: Emoji, 表情符号, Unicode, 搜索</p>
-        <p><a href="https://yww006.github.io/up/tools/emoji-picker.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://emojipedia.org/">立即使用 →</a></p>
       ]]></description>
       <category>趣味</category>
     </item>
@@ -149,14 +149,14 @@
 
     <item>
       <title>🎭 ASCII 艺术生成器 — 趣味</title>
-      <link>https://yww006.github.io/up/tools/ascii-art.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/ascii-art.html</guid>
+      <link>https://yww006.github.io/up/https://patorjk.com/software/taag/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://patorjk.com/software/taag/</guid>
       <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>ASCII 艺术生成器</strong> (趣味)</p>
         <p>文本 → FIGlet 字体/大字符、图片 → ASCII/字符画/彩色 ANSI、动画 → ASCII 视频、字体库预览</p>
         <p>标签: ASCII, 字符画, FIGlet, ANSI</p>
-        <p><a href="https://yww006.github.io/up/tools/ascii-art.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://patorjk.com/software/taag/">立即使用 →</a></p>
       ]]></description>
       <category>趣味</category>
     </item>
@@ -164,14 +164,14 @@
 
     <item>
       <title>📋 Changelog 生成器 — 写作</title>
-      <link>https://yww006.github.io/up/tools/changelog-generator.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/changelog-generator.html</guid>
+      <link>https://yww006.github.io/up/https://github.com/cookpete/changelog-generator</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://github.com/cookpete/changelog-generator</guid>
       <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Changelog 生成器</strong> (写作)</p>
         <p>Conventional Commits → 标准 Changelog、版本分组/链接提交/作者、GitHub/GitLab/Gitea 集成、模板自定义</p>
         <p>标签: Changelog, Conventional Commits, 发布日志, Git</p>
-        <p><a href="https://yww006.github.io/up/tools/changelog-generator.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://github.com/cookpete/changelog-generator">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
     </item>
@@ -179,14 +179,14 @@
 
     <item>
       <title>📖 README 模板生成器 — 写作</title>
-      <link>https://yww006.github.io/up/tools/readme-generator.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/readme-generator.html</guid>
+      <link>https://yww006.github.io/up/https://readme.so/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://readme.so/</guid>
       <pubDate>Wed, 28 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>README 模板生成器</strong> (写作)</p>
         <p>项目类型选择 → 徽章/目录/安装/用法/贡献/许可证/贡献者图、动态徽章、GitHub Profile README</p>
         <p>标签: README, 模板, 徽章, GitHub</p>
-        <p><a href="https://yww006.github.io/up/tools/readme-generator.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://readme.so/">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
     </item>
@@ -194,14 +194,14 @@
 
     <item>
       <title>📋 Markdown 表格生成器 — 写作</title>
-      <link>https://yww006.github.io/up/tools/markdown-table.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/markdown-table.html</guid>
+      <link>https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables</guid>
       <pubDate>Tue, 27 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Markdown 表格生成器</strong> (写作)</p>
         <p>Excel/CSV/JSON → Markdown 表格、对齐/合并单元格/转义、表格转 CSV/HTML/LaTeX、编辑器模式</p>
         <p>标签: Markdown, 表格, 生成器, 转换</p>
-        <p><a href="https://yww006.github.io/up/tools/markdown-table.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
     </item>
@@ -209,14 +209,14 @@
 
     <item>
       <title>🔌 WebSocket 客户端 — 开发</title>
-      <link>https://yww006.github.io/up/tools/websocket-client.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/websocket-client.html</guid>
+      <link>https://yww006.github.io/up/https://www.websocket.org/echo.html</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.websocket.org/echo.html</guid>
       <pubDate>Mon, 26 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>WebSocket 客户端</strong> (开发)</p>
         <p>连接/重连/心跳、消息收发/格式化、二进制/文本、帧详情、连接状态、导出日志、自动重连策略</p>
         <p>标签: WebSocket, 实时通信, 调试, 心跳</p>
-        <p><a href="https://yww006.github.io/up/tools/websocket-client.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.websocket.org/echo.html">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -224,14 +224,14 @@
 
     <item>
       <title>🎮 GraphQL Playground — 开发</title>
-      <link>https://yww006.github.io/up/tools/graphql-playground.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/graphql-playground.html</guid>
+      <link>https://yww006.github.io/up/https://github.com/graphql/graphql-playground</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://github.com/graphql/graphql-playground</guid>
       <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>GraphQL Playground</strong> (开发)</p>
         <p>Schema 文档浏览、查询/变更/订阅自动补全、变量/Headers、历史记录、预览、导出 cURL/代码</p>
         <p>标签: GraphQL, Playground, Schema, 查询</p>
-        <p><a href="https://yww006.github.io/up/tools/graphql-playground.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://github.com/graphql/graphql-playground">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -239,14 +239,14 @@
 
     <item>
       <title>📐 JSON Schema 生成/验证 — 开发</title>
-      <link>https://yww006.github.io/up/tools/json-schema.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/json-schema.html</guid>
+      <link>https://yww006.github.io/up/https://json-schema.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://json-schema.org/</guid>
       <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>JSON Schema 生成/验证</strong> (开发)</p>
         <p>JSON 样本 → Schema、Schema → TypeScript/Go/Java/代码、验证器、Draft 2019-09/2020-12、自定义关键字</p>
         <p>标签: JSON Schema, 验证, TypeScript, 代码生成</p>
-        <p><a href="https://yww006.github.io/up/tools/json-schema.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://json-schema.org/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -254,14 +254,14 @@
 
     <item>
       <title>🧮 Excel 公式生成/解释 — 数据</title>
-      <link>https://yww006.github.io/up/tools/excel-formula.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/excel-formula.html</guid>
+      <link>https://yww006.github.io/up/https://exceljet.net/formulas</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://exceljet.net/formulas</guid>
       <pubDate>Fri, 23 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Excel 公式生成/解释</strong> (数据)</p>
         <p>自然语言 → Excel/Google Sheets 公式、公式反向解释、常用函数库、嵌套可视化、错误排查</p>
         <p>标签: Excel, 公式, Google Sheets, 函数</p>
-        <p><a href="https://yww006.github.io/up/tools/excel-formula.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://exceljet.net/formulas">立即使用 →</a></p>
       ]]></description>
       <category>数据</category>
     </item>
@@ -269,14 +269,14 @@
 
     <item>
       <title>📈 CSV ↔ JSON 转换 — 数据</title>
-      <link>https://yww006.github.io/up/tools/csv-json.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/csv-json.html</guid>
+      <link>https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm</guid>
       <pubDate>Thu, 22 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>CSV ↔ JSON 转换</strong> (数据)</p>
         <p>双向转换、表头映射、类型推断、大文件流式处理、自定义分隔符/引用/转义、导出 Excel/TSV</p>
         <p>标签: CSV, JSON, 转换, Excel, 数据处理</p>
-        <p><a href="https://yww006.github.io/up/tools/csv-json.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm">立即使用 →</a></p>
       ]]></description>
       <category>数据</category>
     </item>
@@ -284,14 +284,14 @@
 
     <item>
       <title>🛡️ 强密码生成器 — 安全</title>
-      <link>https://yww006.github.io/up/tools/password-generator.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/password-generator.html</guid>
+      <link>https://yww006.github.io/up/https://www.passwordgenerator.net/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.passwordgenerator.net/</guid>
       <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>强密码生成器</strong> (安全)</p>
         <p>可配置长度/字符集/排除易混淆字符/可读模式/短语模式、熵值计算、批量生成、密码强度评估</p>
         <p>标签: 密码, 生成器, 强密码, 熵值</p>
-        <p><a href="https://yww006.github.io/up/tools/password-generator.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.passwordgenerator.net/">立即使用 →</a></p>
       ]]></description>
       <category>安全</category>
     </item>
@@ -299,14 +299,14 @@
 
     <item>
       <title>🔒 SSL 证书检查 — 安全</title>
-      <link>https://yww006.github.io/up/tools/ssl-checker.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/ssl-checker.html</guid>
+      <link>https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html</guid>
       <pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>SSL 证书检查</strong> (安全)</p>
         <p>域名证书详情、有效期/签发者/SAN/指纹/链完整性、OCSP/CRL、过期提醒、证书透明度日志</p>
         <p>标签: SSL, TLS, 证书, HTTPS, 安全</p>
-        <p><a href="https://yww006.github.io/up/tools/ssl-checker.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html">立即使用 →</a></p>
       ]]></description>
       <category>安全</category>
     </item>
@@ -314,14 +314,14 @@
 
     <item>
       <title>🔌 常用端口速查表 — 网络</title>
-      <link>https://yww006.github.io/up/tools/port-reference.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/port-reference.html</guid>
+      <link>https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml</guid>
       <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>常用端口速查表</strong> (网络)</p>
         <p>IANA 官方端口、常见服务默认端口、协议类型、安全风险等级、防火墙规则模板、搜索筛选</p>
         <p>标签: 端口, IANA, 防火墙, 网络服务</p>
-        <p><a href="https://yww006.github.io/up/tools/port-reference.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml">立即使用 →</a></p>
       ]]></description>
       <category>网络</category>
     </item>
@@ -329,14 +329,14 @@
 
     <item>
       <title>🖥️ User-Agent 解析器 — 网络</title>
-      <link>https://yww006.github.io/up/tools/user-agent-parser.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/user-agent-parser.html</guid>
+      <link>https://yww006.github.io/up/https://www.useragentstring.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.useragentstring.com/</guid>
       <pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>User-Agent 解析器</strong> (网络)</p>
         <p>解析 UA 字符串 → 浏览器/引擎/操作系统/设备/爬虫判定、版本号、兼容性建议、批量解析</p>
         <p>标签: User-Agent, 解析, 浏览器, 设备检测</p>
-        <p><a href="https://yww006.github.io/up/tools/user-agent-parser.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.useragentstring.com/">立即使用 →</a></p>
       ]]></description>
       <category>网络</category>
     </item>
@@ -344,14 +344,14 @@
 
     <item>
       <title>📚 常用正则库 — 开发</title>
-      <link>https://yww006.github.io/up/tools/regex-lib.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/regex-lib.html</guid>
+      <link>https://yww006.github.io/up/https://regexlib.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://regexlib.com/</guid>
       <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>常用正则库</strong> (开发)</p>
         <p>邮箱/手机/身份证/URL/IP/日期/金额/中文/密码强度/HTML标签/Markdown 等 50+ 即用正则、测试、复制</p>
         <p>标签: 正则库, 常用正则, 验证, 表单</p>
-        <p><a href="https://yww006.github.io/up/tools/regex-lib.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://regexlib.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -359,14 +359,14 @@
 
     <item>
       <title>☸️ Kubernetes YAML 生成器 — 运维</title>
-      <link>https://yww006.github.io/up/tools/k8s-yaml.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/k8s-yaml.html</guid>
+      <link>https://yww006.github.io/up/https://k8syaml.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://k8syaml.com/</guid>
       <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Kubernetes YAML 生成器</strong> (运维)</p>
         <p>Deployment/Service/Ingress/ConfigMap/Secret/PVC/HPA 可视化生成、模板变量、Helm Chart 骨架、kubectl 干运行</p>
         <p>标签: Kubernetes, K8s, YAML, Helm</p>
-        <p><a href="https://yww006.github.io/up/tools/k8s-yaml.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://k8syaml.com/">立即使用 →</a></p>
       ]]></description>
       <category>运维</category>
     </item>
@@ -374,14 +374,14 @@
 
     <item>
       <title>🐳 Docker 命令生成器 — 运维</title>
-      <link>https://yww006.github.io/up/tools/docker-command.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/docker-command.html</guid>
+      <link>https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/</guid>
       <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>Docker 命令生成器</strong> (运维)</p>
         <p>可视化构建 docker run / docker-compose / Dockerfile、端口/卷/环境/网络/资源限制、最佳实践模板</p>
         <p>标签: Docker, 容器, docker-compose, Dockerfile</p>
-        <p><a href="https://yww006.github.io/up/tools/docker-command.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/">立即使用 →</a></p>
       ]]></description>
       <category>运维</category>
     </item>
@@ -389,14 +389,14 @@
 
     <item>
       <title>🚀 轻量 API 测试器 — 开发</title>
-      <link>https://yww006.github.io/up/tools/api-tester.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/api-tester.html</guid>
+      <link>https://yww006.github.io/up/https://reqbin.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://reqbin.com/</guid>
       <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>轻量 API 测试器</strong> (开发)</p>
         <p>REST/GraphQL/WebSocket 请求构建、环境变量、历史记录、集合导入导出、自动化测试脚本、响应可视化</p>
         <p>标签: API, 测试, REST, GraphQL, WebSocket</p>
-        <p><a href="https://yww006.github.io/up/tools/api-tester.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://reqbin.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -404,14 +404,14 @@
 
     <item>
       <title>🗄️ SQL 格式化/美化 — 开发</title>
-      <link>https://yww006.github.io/up/tools/sql-formatter.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/sql-formatter.html</guid>
+      <link>https://yww006.github.io/up/https://sqlformat.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://sqlformat.org/</guid>
       <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>SQL 格式化/美化</strong> (开发)</p>
         <p>多方言支持、关键字大小写、缩进风格、逗号首尾、CTE 对齐、注释保留、压缩/展开模式</p>
         <p>标签: SQL, 格式化, 美化, 数据库</p>
-        <p><a href="https://yww006.github.io/up/tools/sql-formatter.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://sqlformat.org/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -419,14 +419,14 @@
 
     <item>
       <title>📊 文本/代码对比 — 开发</title>
-      <link>https://yww006.github.io/up/tools/diff-tool.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/diff-tool.html</guid>
+      <link>https://yww006.github.io/up/https://www.diffchecker.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.diffchecker.com/</guid>
       <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>文本/代码对比</strong> (开发)</p>
         <p>行级/字符级 Diff、统一/并排视图、语法高亮、忽略空白/大小写、合并冲突解决、导出 HTML 报告</p>
         <p>标签: Diff, 对比, 合并, 代码审查</p>
-        <p><a href="https://yww006.github.io/up/tools/diff-tool.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.diffchecker.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -434,14 +434,14 @@
 
     <item>
       <title>🗜️ CSS/JS/HTML 压缩 — 开发</title>
-      <link>https://yww006.github.io/up/tools/css-minifier.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/css-minifier.html</guid>
+      <link>https://yww006.github.io/up/https://www.toptal.com/developers/cssminifier</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.toptal.com/developers/cssminifier</guid>
       <pubDate>Sun, 11 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>CSS/JS/HTML 压缩</strong> (开发)</p>
         <p>基于 esbuild/terser/cssnano，代码压缩、混淆、Tree-shaking、Source Map 生成、压缩率统计、批量处理</p>
         <p>标签: 压缩, 混淆, CSS, JavaScript, HTML</p>
-        <p><a href="https://yww006.github.io/up/tools/css-minifier.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.toptal.com/developers/cssminifier">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
@@ -449,14 +449,14 @@
 
     <item>
       <title>🤖 robots.txt 生成/验证 — SEO</title>
-      <link>https://yww006.github.io/up/tools/robots-txt.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/tools/robots-txt.html</guid>
+      <link>https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html</guid>
       <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[
         <p><strong>robots.txt 生成/验证</strong> (SEO)</p>
         <p>可视化配置 User-agent/Disallow/Allow/Sitemap/Crawl-delay、语法验证、Google 兼容性检查、导出文件</p>
         <p>标签: robots.txt, 爬虫, SEO, Sitemap</p>
-        <p><a href="https://yww006.github.io/up/tools/robots-txt.html">立即使用 →</a></p>
+        <p><a href="https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html">立即使用 →</a></p>
       ]]></description>
       <category>SEO</category>
     </item>
