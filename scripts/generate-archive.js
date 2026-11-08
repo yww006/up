@@ -166,7 +166,8 @@ function main() {
 
     // Write archive page
     fs.writeFileSync(OUTPUT_FILE, newHtml);
-    console.log(`✅ Generated archive.html with ${cards.length} historical entries`);
+    const daysShown = Math.min(365, tools.length * 2);
+    console.log(`✅ Generated archive.html with ${daysShown} historical entries`);
 
   } catch (error) {
     console.error('❌ Failed to generate archive:', error);
