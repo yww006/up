@@ -1,0 +1,874 @@
+{
+  "tools": [
+    {
+      "id": "color-palette",
+      "name": "配色生成器",
+      "description": "一键生成和谐配色方案，支持单色、互补、类似、三角色等色彩理论模式，可导出 CSS/SCSS/Tailwind 变量",
+      "category": "设计",
+      "tags": ["配色", "设计", "CSS", "Tailwind"],
+      "url": "tools/color-palette.html",
+      "icon": "🎨",
+      "featured": true
+    },
+    {
+      "id": "json-formatter",
+      "name": "JSON 格式化/压缩",
+      "description": "在线 JSON 格式化、压缩、验证、转 CSV/TypeScript 接口，支持大文件流式处理",
+      "category": "开发",
+      "tags": ["JSON", "格式化", "验证", "TypeScript"],
+      "url": "tools/json-formatter.html",
+      "icon": "📋",
+      "featured": true
+    },
+    {
+      "id": "uuid-generator",
+      "name": "UUID / NanoID 生成器",
+      "description": "批量生成 UUID v1/v4/v7、NanoID、ULID、短 ID，支持自定义前缀、大小写、数量",
+      "category": "开发",
+      "tags": ["UUID", "NanoID", "ULID", "ID生成"],
+      "url": "tools/uuid-generator.html",
+      "icon": "🔑",
+      "featured": false
+    },
+    {
+      "id": "regex-tester",
+      "name": "正则表达式测试器",
+      "description": "实时高亮匹配、分组捕获、替换预览、常用正则库、正则解释器，支持 JS/Python/Go/Rust 语法",
+      "category": "开发",
+      "tags": ["正则", "测试", "替换", "解释"],
+      "url": "tools/regex-tester.html",
+      "icon": "🔍",
+      "featured": true
+    },
+    {
+      "id": "base64-tool",
+      "name": "Base64 编解码",
+      "description": "文本/文件/图片 Base64 编解码，支持 URL-safe 变体、批量处理、拖拽上传",
+      "category": "开发",
+      "tags": ["Base64", "编码", "解码", "图片转Base64"],
+      "url": "tools/base64-tool.html",
+      "icon": "🔄",
+      "featured": false
+    },
+    {
+      "id": "jwt-decoder",
+      "name": "JWT 解码器",
+      "description": "解析 JWT Header/Payload/Signature，验证签名、检查过期时间、显示标准声明、支持 HS256/RS256/ES256",
+      "category": "开发",
+      "tags": ["JWT", "Token", "认证", "调试"],
+      "url": "tools/jwt-decoder.html",
+      "icon": "🎫",
+      "featured": true
+    },
+    {
+      "id": "timestamp-converter",
+      "name": "时间戳转换器",
+      "description": "Unix 毫秒/秒 ↔ ISO 8601 ↔ 本地时间 ↔ RFC 3339 互转，支持时区切换、相对时间、批量转换",
+      "category": "开发",
+      "tags": ["时间戳", "日期", "时区", "转换"],
+      "url": "tools/timestamp-converter.html",
+      "icon": "⏰",
+      "featured": false
+    },
+    {
+      "id": "hash-generator",
+      "name": "哈希值生成器",
+      "description": "MD5/SHA-1/SHA-256/SHA-512/RIPEMD160/Bcrypt/Argon2 计算，支持文件哈希、HMAC、字符串对比",
+      "category": "安全",
+      "tags": ["哈希", "MD5", "SHA256", "Bcrypt", "校验"],
+      "url": "tools/hash-generator.html",
+      "icon": "🔐",
+      "featured": false
+    },
+    {
+      "id": "qr-code",
+      "name": "二维码生成/识别",
+      "description": "生成带 Logo、自定义颜色/纠错级别的二维码，支持 识别上传图片/摄像头扫码，导出 PNG/SVG",
+      "category": "工具",
+      "tags": ["二维码", "QR码", "生成", "识别"],
+      "url": "tools/qr-code.html",
+      "icon": "📱",
+      "featured": true
+    },
+    {
+      "id": "markdown-editor",
+      "name": "Markdown 编辑器",
+      "description": "所见即所得 + 源码双栏、实时预览、Mermaid/PlantUML/LaTeX 数学公式、导出 HTML/PDF/图片",
+      "category": "写作",
+      "tags": ["Markdown", "编辑器", "Mermaid", "导出PDF"],
+      "url": "tools/markdown-editor.html",
+      "icon": "📝",
+      "featured": true
+    },
+    {
+      "id": "cron-expression",
+      "name": "Cron 表达式生成/解析",
+      "description": "可视化构建 Cron 表达式，下次执行时间预测、人类可读说明、支持 Quartz/Linux/Spring 变体",
+      "category": "运维",
+      "tags": ["Cron", "定时任务", "表达式", "调度"],
+      "url": "tools/cron-expression.html",
+      "icon": "⏲️",
+      "featured": false
+    },
+    {
+      "id": "http-status",
+      "name": "HTTP 状态码查询",
+      "description": "完整 HTTP 状态码表、分类筛选、搜索、RFC 链接、常见错误场景、响应头参考",
+      "category": "网络",
+      "tags": ["HTTP", "状态码", "API", "调试"],
+      "url": "tools/http-status.html",
+      "icon": "🌐",
+      "featured": false
+    },
+    {
+      "id": "mime-types",
+      "name": "MIME 类型查询",
+      "description": "1000+ MIME 类型、扩展名映射、分类浏览、搜索、Accept 头生成、文件签名对照",
+      "category": "网络",
+      "tags": ["MIME", "Content-Type", "文件类型", "扩展名"],
+      "url": "tools/mime-types.html",
+      "icon": "📄",
+      "featured": false
+    },
+    {
+      "id": "css-gradient",
+      "name": "CSS 渐变生成器",
+      "description": "线性/径向/圆锥渐变可视化编辑、多色停、角度/位置控制、CSS 代码一键复制、Tailwind/SCSS 输出",
+      "category": "设计",
+      "tags": ["CSS", "渐变", "背景", "Tailwind"],
+      "url": "tools/css-gradient.html",
+      "icon": "🌈",
+      "featured": true
+    },
+    {
+      "id": "box-shadow",
+      "name": "CSS 阴影生成器",
+      "description": "多层 box-shadow / text-shadow 可视化调节、X/Y/模糊/扩散/颜色/内阴影、分层导出、Neumorphism 预设",
+      "category": "设计",
+      "tags": ["CSS", "阴影", "Neumorphism", "设计"],
+      "url": "tools/box-shadow.html",
+      "icon": "🌫️",
+      "featured": false
+    },
+    {
+      "id": "font-pairing",
+      "name": "字体搭配推荐",
+      "description": "Google Fonts 热门字体搭配、标题/正文预览、中英文混排、字重/行高/字距调节、一键导入代码",
+      "category": "设计",
+      "tags": ["字体", "Google Fonts", "排版", "搭配"],
+      "url": "tools/font-pairing.html",
+      "icon": "🔤",
+      "featured": false
+    },
+    {
+      "id": "svg-optimizer",
+      "name": "SVG 优化压缩",
+      "description": "SVGO 驱动，移除冗余属性/注释/元数据、合并路径、精度压缩、保留 viewBox、批量处理、压缩率对比",
+      "category": "设计",
+      "tags": ["SVG", "优化", "压缩", "SVGO"],
+      "url": "tools/svg-optimizer.html",
+      "icon": "📐",
+      "featured": false
+    },
+    {
+      "id": "favicon-generator",
+      "name": "Favicon 多尺寸生成",
+      "description": "上传图片 → 生成 16×16 到 512×512 全尺寸、ICO 打包、Web App Manifest、Apple Touch Icon、PWA 就绪",
+      "category": "设计",
+      "tags": ["Favicon", "PWA", "图标", "多尺寸"],
+      "url": "tools/favicon-generator.html",
+      "icon": "🌟",
+      "featured": false
+    },
+    {
+      "id": "lorem-ipsum",
+      "name": "占位文本/图片生成",
+      "description": "Lorem Ipsum / 中文占位文本 / 随机用户头像 / Unsplash 占位图 / 占位视频，可自定义长度/分段/格式",
+      "category": "设计",
+      "tags": ["占位文本", "Lorem Ipsum", "占位图", "头像"],
+      "url": "tools/lorem-ipsum.html",
+      "icon": "📜",
+      "featured": false
+    },
+    {
+      "id": "unit-converter",
+      "name": "单位换算器",
+      "description": "长度/重量/温度/面积/体积/速度/时间/数据存储/压力/功率/角度/燃油效率，实时双向换算、历史记录",
+      "category": "工具",
+      "tags": ["单位换算", "长度", "温度", "数据存储"],
+      "url": "tools/unit-converter.html",
+      "icon": "📏",
+      "featured": false
+    },
+    {
+      "id": "color-contrast",
+      "name": "WCAG 对比度检查",
+      "description": "前景/背景色对比度计算、AA/AAA 级合规判定、大号/小号文本、图形组件、色盲模拟、自动推荐修正色",
+      "category": "设计",
+      "tags": ["对比度", "WCAG", "无障碍", "色盲"],
+      "url": "tools/color-contrast.html",
+      "icon": "♿",
+      "featured": true
+    },
+    {
+      "id": "meta-tag-generator",
+      "name": "Meta 标签生成器",
+      "description": "Open Graph / Twitter Card / SEO 基础 / PWA / 安全策略 / 结构化数据 可视化生成、预览、一键复制",
+      "category": "SEO",
+      "tags": ["Meta标签", "Open Graph", "SEO", "Twitter Card"],
+      "url": "tools/meta-tag-generator.html",
+      "icon": "🏷️",
+      "featured": false
+    },
+    {
+      "id": "robots-txt",
+      "name": "robots.txt 生成/验证",
+      "description": "可视化配置 User-agent/Disallow/Allow/Sitemap/Crawl-delay、语法验证、Google 兼容性检查、导出文件",
+      "category": "SEO",
+      "tags": ["robots.txt", "爬虫", "SEO", "Sitemap"],
+      "url": "tools/robots-txt.html",
+      "icon": "🤖",
+      "featured": false
+    },
+    {
+      "id": "css-minifier",
+      "name": "CSS/JS/HTML 压缩",
+      "description": "基于 esbuild/terser/cssnano，代码压缩、混淆、Tree-shaking、Source Map 生成、压缩率统计、批量处理",
+      "category": "开发",
+      "tags": ["压缩", "混淆", "CSS", "JavaScript", "HTML"],
+      "url": "tools/css-minifier.html",
+      "icon": "🗜️",
+      "featured": false
+    },
+    {
+      "id": "diff-tool",
+      "name": "文本/代码对比",
+      "description": "行级/字符级 Diff、统一/并排视图、语法高亮、忽略空白/大小写、合并冲突解决、导出 HTML 报告",
+      "category": "开发",
+      "tags": ["Diff", "对比", "合并", "代码审查"],
+      "url": "tools/diff-tool.html",
+      "icon": "📊",
+      "featured": false
+    },
+    {
+      "id": "sql-formatter",
+      "name": "SQL 格式化/美化",
+      "description": "多方言支持、关键字大小写、缩进风格、逗号首尾、CTE 对齐、注释保留、压缩/展开模式",
+      "category": "开发",
+      "tags": ["SQL", "格式化", "美化", "数据库"],
+      "url": "tools/sql-formatter.html",
+      "icon": "🗄️",
+      "featured": false
+    },
+    {
+      "id": "api-tester",
+      "name": "轻量 API 测试器",
+      "description": "REST/GraphQL/WebSocket 请求构建、环境变量、历史记录、集合导入导出、自动化测试脚本、响应可视化",
+      "category": "开发",
+      "tags": ["API", "测试", "REST", "GraphQL", "WebSocket"],
+      "url": "tools/api-tester.html",
+      "icon": "🚀",
+      "featured": true
+    },
+    {
+      "id": "docker-command",
+      "name": "Docker 命令生成器",
+      "description": "可视化构建 docker run / docker-compose / Dockerfile、端口/卷/环境/网络/资源限制、最佳实践模板",
+      "category": "运维",
+      "tags": ["Docker", "容器", "docker-compose", "Dockerfile"],
+      "url": "tools/docker-command.html",
+      "icon": "🐳",
+      "featured": false
+    },
+    {
+      "id": "k8s-yaml",
+      "name": "Kubernetes YAML 生成器",
+      "description": "Deployment/Service/Ingress/ConfigMap/Secret/PVC/HPA 可视化生成、模板变量、Helm Chart 骨架、kubectl 干运行",
+      "category": "运维",
+      "tags": ["Kubernetes", "K8s", "YAML", "Helm"],
+      "url": "tools/k8s-yaml.html",
+      "icon": "☸️",
+      "featured": false
+    },
+    {
+      "id": "regex-lib",
+      "name": "常用正则库",
+      "description": "邮箱/手机/身份证/URL/IP/日期/金额/中文/密码强度/HTML标签/Markdown 等 50+ 即用正则、测试、复制",
+      "category": "开发",
+      "tags": ["正则库", "常用正则", "验证", "表单"],
+      "url": "tools/regex-lib.html",
+      "icon": "📚",
+      "featured": false
+    },
+    {
+      "id": "user-agent-parser",
+      "name": "User-Agent 解析器",
+      "description": "解析 UA 字符串 → 浏览器/引擎/操作系统/设备/爬虫判定、版本号、兼容性建议、批量解析",
+      "category": "网络",
+      "tags": ["User-Agent", "解析", "浏览器", "设备检测"],
+      "url": "tools/user-agent-parser.html",
+      "icon": "🖥️",
+      "featured": false
+    },
+    {
+      "id": "port-reference",
+      "name": "常用端口速查表",
+      "description": "IANA 官方端口、常见服务默认端口、协议类型、安全风险等级、防火墙规则模板、搜索筛选",
+      "category": "网络",
+      "tags": ["端口", "IANA", "防火墙", "网络服务"],
+      "url": "tools/port-reference.html",
+      "icon": "🔌",
+      "featured": false
+    },
+    {
+      "id": "ssl-checker",
+      "name": "SSL 证书检查",
+      "description": "域名证书详情、有效期/签发者/SAN/指纹/链完整性、OCSP/CRL、过期提醒、证书透明度日志",
+      "category": "安全",
+      "tags": ["SSL", "TLS", "证书", "HTTPS", "安全"],
+      "url": "tools/ssl-checker.html",
+      "icon": "🔒",
+      "featured": false
+    },
+    {
+      "id": "password-generator",
+      "name": "强密码生成器",
+      "description": "可配置长度/字符集/排除易混淆字符/可读模式/短语模式、熵值计算、批量生成、密码强度评估",
+      "category": "安全",
+      "tags": ["密码", "生成器", "强密码", "熵值"],
+      "url": "tools/password-generator.html",
+      "icon": "🛡️",
+      "featured": false
+    },
+    {
+      "id": "csv-json",
+      "name": "CSV ↔ JSON 转换",
+      "description": "双向转换、表头映射、类型推断、大文件流式处理、自定义分隔符/引用/转义、导出 Excel/TSV",
+      "category": "数据",
+      "tags": ["CSV", "JSON", "转换", "Excel", "数据处理"],
+      "url": "tools/csv-json.html",
+      "icon": "📈",
+      "featured": false
+    },
+    {
+      "id": "excel-formula",
+      "name": "Excel 公式生成/解释",
+      "description": "自然语言 → Excel/Google Sheets 公式、公式反向解释、常用函数库、嵌套可视化、错误排查",
+      "category": "数据",
+      "tags": ["Excel", "公式", "Google Sheets", "函数"],
+      "url": "tools/excel-formula.html",
+      "icon": "🧮",
+      "featured": false
+    },
+    {
+      "id": "json-schema",
+      "name": "JSON Schema 生成/验证",
+      "description": "JSON 样本 → Schema、Schema → TypeScript/Go/Java/代码、验证器、Draft 2019-09/2020-12、自定义关键字",
+      "category": "开发",
+      "tags": ["JSON Schema", "验证", "TypeScript", "代码生成"],
+      "url": "tools/json-schema.html",
+      "icon": "📐",
+      "featured": false
+    },
+    {
+      "id": "graphql-playground",
+      "name": "GraphQL Playground",
+      "description": "Schema 文档浏览、查询/变更/订阅自动补全、变量/Headers、历史记录、预览、导出 cURL/代码",
+      "category": "开发",
+      "tags": ["GraphQL", "Playground", "Schema", "查询"],
+      "url": "tools/graphql-playground.html",
+      "icon": "🎮",
+      "featured": false
+    },
+    {
+      "id": "websocket-client",
+      "name": "WebSocket 客户端",
+      "description": "连接/重连/心跳、消息收发/格式化、二进制/文本、帧详情、连接状态、导出日志、自动重连策略",
+      "category": "开发",
+      "tags": ["WebSocket", "实时通信", "调试", "心跳"],
+      "url": "tools/websocket-client.html",
+      "icon": "🔌",
+      "featured": false
+    },
+    {
+      "id": "markdown-table",
+      "name": "Markdown 表格生成器",
+      "description": "Excel/CSV/JSON → Markdown 表格、对齐/合并单元格/转义、表格转 CSV/HTML/LaTeX、编辑器模式",
+      "category": "写作",
+      "tags": ["Markdown", "表格", "生成器", "转换"],
+      "url": "tools/markdown-table.html",
+      "icon": "📋",
+      "featured": false
+    },
+    {
+      "id": "readme-generator",
+      "name": "README 模板生成器",
+      "description": "项目类型选择 → 徽章/目录/安装/用法/贡献/许可证/贡献者图、动态徽章、GitHub Profile README",
+      "category": "写作",
+      "tags": ["README", "模板", "徽章", "GitHub"],
+      "url": "tools/readme-generator.html",
+      "icon": "📖",
+      "featured": false
+    },
+    {
+      "id": "changelog-generator",
+      "name": "Changelog 生成器",
+      "description": "Conventional Commits → 标准 Changelog、版本分组/链接提交/作者、GitHub/GitLab/Gitea 集成、模板自定义",
+      "category": "写作",
+      "tags": ["Changelog", "Conventional Commits", "发布日志", "Git"],
+      "url": "tools/changelog-generator.html",
+      "icon": "📋",
+      "featured": false
+    },
+    {
+      "id": "ascii-art",
+      "name": "ASCII 艺术生成器",
+      "description": "文本 → FIGlet 字体/大字符、图片 → ASCII/字符画/彩色 ANSI、动画 → ASCII 视频、字体库预览",
+      "category": "趣味",
+      "tags": ["ASCII", "字符画", "FIGlet", "ANSI"],
+      "url": "tools/ascii-art.html",
+      "icon": "🎭",
+      "featured": false
+    },
+    {
+      "id": "emoji-picker",
+      "name": "Emoji 选择器/搜索",
+      "description": "全 Unicode Emoji 搜索/分类/皮肤色/组合、复制字符/代码/短代码、常用/最近、自定义收藏",
+      "category": "趣味",
+      "tags": ["Emoji", "表情符号", "Unicode", "搜索"],
+      "url": "tools/emoji-picker.html",
+      "icon": "😀",
+      "featured": false
+    },
+    {
+      "id": "color-blind",
+      "name": "色盲模拟器",
+      "description": "上传图片/输入颜色 → 红盲/绿盲/蓝盲/全色盲模拟、对比度检查、无障碍配色建议、WCAG 合规",
+      "category": "设计",
+      "tags": ["色盲", "模拟", "无障碍", "WCAG"],
+      "url": "tools/color-blind.html",
+      "icon": "👁️",
+      "featured": false
+    },
+    {
+      "id": "layout-generator",
+      "name": "CSS 布局生成器",
+      "description": "Flexbox/Grid/Masonry/Holy Grail/Sidebar/Navbar/Card/Modal 可视化构建、响应式断点、代码导出、Tailwind 类",
+      "category": "设计",
+      "tags": ["CSS", "布局", "Flexbox", "Grid", "Tailwind"],
+      "url": "tools/layout-generator.html",
+      "icon": "📐",
+      "featured": true
+    },
+    {
+      "id": "animation-generator",
+      "name": "CSS 动画生成器",
+      "description": "关键帧可视化编辑、缓动函数曲线、transform/opacity/color/clip-path、@property 动画、导出 CSS/JS",
+      "category": "设计",
+      "tags": ["CSS", "动画", "关键帧", "缓动函数"],
+      "url": "tools/animation-generator.html",
+      "icon": "✨",
+      "featured": false
+    },
+    {
+      "id": "icon-search",
+      "name": "图标搜索/下载",
+      "description": "聚合 Lucide/Phosphor/Tabler/Heroicons/Feather/Material/FontAwesome，搜索/预览/下载 SVG/PNG/React/Vue 组件",
+      "category": "设计",
+      "tags": ["图标", "SVG", "Lucide", "React组件", "下载"],
+      "url": "tools/icon-search.html",
+      "icon": "🔍",
+      "featured": false
+    },
+    {
+      "id": "gradient-mesh",
+      "name": "Mesh Gradient 生成器",
+      "description": "网格渐变可视化编辑、控制点拖拽、模糊/透明度/颜色、导出 CSS/SVG/Canvas/PNG、动态动画预设",
+      "category": "设计",
+      "tags": ["Mesh Gradient", "网格渐变", "背景", "SVG"],
+      "url": "tools/gradient-mesh.html",
+      "icon": "🎨",
+      "featured": true
+    },
+    {
+      "id": "glassmorphism",
+      "name": "Glassmorphism 生成器",
+      "description": "毛玻璃效果可视化、背景模糊/透明度/边框/阴影/噪点纹理、iOS/macOS/Windows 11 预设、CSS/Tailwind 导出",
+      "category": "设计",
+      "tags": ["Glassmorphism", "毛玻璃", "磨砂玻璃", "CSS"],
+      "url": "tools/glassmorphism.html",
+      "icon": "🔍",
+      "featured": false
+    },
+    {
+      "id": "neumorphism",
+      "name": "Neumorphism 生成器",
+      "description": "新拟态风格可视化、双阴影/亮暗模式/圆角/深度/颜色、按钮/卡片/输入框/开关预设、CSS/Figma 导出",
+      "category": "设计",
+      "tags": ["Neumorphism", "新拟态", "软UI", "阴影"],
+      "url": "tools/neumorphism.html",
+      "icon": "☁️",
+      "featured": false
+    },
+    {
+      "id": "tailwind-config",
+      "name": "Tailwind 配置可视化",
+      "description": "主题色/间距/字体/断点/阴影/动画 可视化编辑、预设导入、配置文件导出、JIT 类名预览、插件管理",
+      "category": "开发",
+      "tags": ["Tailwind", "配置", "主题", "CSS框架"],
+      "url": "tools/tailwind-config.html",
+      "icon": "🎯",
+      "featured": false
+    },
+    {
+      "id": "commit-message",
+      "name": "Git Commit Message 生成",
+      "description": "Conventional Commits 可视化构建、类型/范围/主题/正文/脚注、Emoji/破坏性变更、Git Hooks 集成模板",
+      "category": "开发",
+      "tags": ["Git", "Commit", "Conventional Commits", "规范"],
+      "url": "tools/commit-message.html",
+      "icon": "📝",
+      "featured": false
+    },
+    {
+      "id": "gitignore-generator",
+      "name": ".gitignore 生成器",
+      "description": "500+ 语言/框架/IDE/OS 模板、多选合并、自定义规则、GitHub 官方模板同步、一键下载/复制",
+      "category": "开发",
+      "tags": [".gitignore", "Git", "模板", "忽略文件"],
+      "url": "tools/gitignore-generator.html",
+      "icon": "🚫",
+      "featured": false
+    },
+    {
+      "id": "license-generator",
+      "name": "开源许可证生成器",
+      "description": "MIT/Apache-2.0/GPL-3.0/BSD-3/MPL-2.0/AGPL-3.0/Unlicense 选择、年份/作者/项目名填充、兼容性对比、SPDX 标识",
+      "category": "法律",
+      "tags": ["许可证", "开源", "MIT", "Apache", "GPL"],
+      "url": "tools/license-generator.html",
+      "icon": "⚖️",
+      "featured": false
+    },
+    {
+      "id": "semver-calculator",
+      "name": "语义化版本计算器",
+      "description": "版本号解析/比较/递增、预发布/构建元数据、范围匹配、^/~/>/= 语法、npm/Go/Rust/Cargo 兼容",
+      "category": "开发",
+      "tags": ["SemVer", "版本号", "语义化版本", "依赖管理"],
+      "url": "tools/semver-calculator.html",
+      "icon": "🔢",
+      "featured": false
+    },
+    {
+      "id": "bundle-analyzer",
+      "name": "打包体积分析",
+      "description": "上传 webpack/rollup/vite/esbuild stats.json → 树状图/旭日图/依赖关系、重复模块/大文件/优化建议",
+      "category": "开发",
+      "tags": ["打包分析", "Webpack", "Vite", "体积优化", "依赖分析"],
+      "url": "tools/bundle-analyzer.html",
+      "icon": "📦",
+      "featured": false
+    },
+    {
+      "id": "lighthouse-ci",
+      "name": "Lighthouse CI 报告",
+      "description": "URL → Performance/Accessibility/Best Practices/SEO/PWA 评分、核心 Web Vitals、预算阈值、历史趋势、GitHub PR 注释",
+      "category": "性能",
+      "tags": ["Lighthouse", "性能", "Web Vitals", "CI/CD"],
+      "url": "tools/lighthouse-ci.html",
+      "icon": "🏎️",
+      "featured": false
+    },
+    {
+      "id": "image-optimizer",
+      "name": "图片压缩/格式转换",
+      "description": "AVIF/WebP/JPEG/PNG/SVG 压缩、质量/尺寸/渐进式/无损、批量拖拽、压缩率对比、EXIF 保留/移除",
+      "category": "工具",
+      "tags": ["图片压缩", "WebP", "AVIF", "批量处理", "格式转换"],
+      "url": "tools/image-optimizer.html",
+      "icon": "🖼️",
+      "featured": true
+    },
+    {
+      "id": "video-compressor",
+      "name": "视频压缩/转码",
+      "description": "H.264/H.265/VP9/AV1 转码、CRF/比特率/分辨率/帧率控制、硬件加速、字幕烧录、GIF/WebM 生成",
+      "category": "工具",
+      "tags": ["视频压缩", "转码", "H.265", "AV1", "GIF"],
+      "url": "tools/video-compressor.html",
+      "icon": "🎬",
+      "featured": false
+    },
+    {
+      "id": "audio-tool",
+      "name": "音频剪辑/转换",
+      "description": "MP3/WAV/FLAC/OGG/AAC 互转、裁剪/淡入淡出/音量/变速/变调、波形可视化、批量处理、ID3 标签编辑",
+      "category": "工具",
+      "tags": ["音频", "转换", "剪辑", "波形", "ID3"],
+      "url": "tools/audio-tool.html",
+      "icon": "🎵",
+      "featured": false
+    },
+    {
+      "id": "pdf-toolkit",
+      "name": "PDF 工具箱",
+      "description": "合并/拆分/旋转/压缩/加密/水印/提取图片/转图片/OCR/表单填充/签名/书签/元数据编辑",
+      "category": "工具",
+      "tags": ["PDF", "合并", "拆分", "OCR", "水印"],
+      "url": "tools/pdf-toolkit.html",
+      "icon": "📄",
+      "featured": false
+    },
+    {
+      "id": "ocr-tool",
+      "name": "OCR 文字识别",
+      "description": "图片/PDF → 文本、多语言/手写/表格识别、位置坐标/置信度、批量处理、导出 TXT/DOCX/JSON/搜索型 PDF",
+      "category": "工具",
+      "tags": ["OCR", "文字识别", "表格识别", "手写识别"],
+      "url": "tools/ocr-tool.html",
+      "icon": "🔍",
+      "featured": false
+    },
+    {
+      "id": "barcode-generator",
+      "name": "条形码生成器",
+      "description": "Code128/EAN-13/UPC-A/QR/DataMatrix/PDF417/Aztec 生成、尺寸/边距/字体/颜色、批量序列号、SVG/PNG 导出",
+      "category": "工具",
+      "tags": ["条形码", "Code128", "EAN13", "批量生成", "库存"],
+      "url": "tools/barcode-generator.html",
+      "icon": "📊",
+      "featured": false
+    },
+    {
+      "id": "cron-job",
+      "name": "在线定时任务",
+      "description": "HTTP/Webhook 定时触发、Cron 表达式/间隔/一次性、重试/超时/Headers/Body、执行日志/状态监控、免费额度",
+      "category": "运维",
+      "tags": ["定时任务", "Cron", "Webhook", "调度", "监控"],
+      "url": "tools/cron-job.html",
+      "icon": "⏰",
+      "featured": false
+    },
+    {
+      "id": "dns-lookup",
+      "name": "DNS 查询工具",
+      "description": "A/AAAA/CNAME/MX/TXT/NS/SOA/CAA 记录查询、多节点/递归/权威、传播检查、DNSSEC 验证、响应时间",
+      "category": "网络",
+      "tags": ["DNS", "域名解析", "记录查询", "传播检查"],
+      "url": "tools/dns-lookup.html",
+      "icon": "🌍",
+      "featured": false
+    },
+    {
+      "id": "whois-tool",
+      "name": "WHOIS 域名信息",
+      "description": "注册商/注册时间/过期时间/持有者/DNS 服务器/状态、批量查询、到期提醒、域名监控、历史记录",
+      "category": "网络",
+      "tags": ["WHOIS", "域名", "注册信息", "过期监控"],
+      "url": "tools/whois-tool.html",
+      "icon": "🔎",
+      "featured": false
+    },
+    {
+      "id": "ip-tool",
+      "name": "IP 地址工具箱",
+      "description": "本机 IP/归属地/ASN/代理检测/VPN/Tor、CIDR 计算/子网划分/掩码/网段/广播地址、IPv4/IPv6 互转",
+      "category": "网络",
+      "tags": ["IP", "CIDR", "子网", "归属地", "代理检测"],
+      "url": "tools/ip-tool.html",
+      "icon": "📍",
+      "featured": false
+    },
+    {
+      "id": "http-headers",
+      "name": "HTTP Headers 分析",
+      "description": "请求/响应头完整解析、安全头检查/CSP/HSTS/X-Frame-Options/Referrer-Policy、缓存策略、Cookie 解析",
+      "category": "网络",
+      "tags": ["HTTP Headers", "安全头", "CSP", "HSTS", "缓存"],
+      "url": "tools/http-headers.html",
+      "icon": "📋",
+      "featured": false
+    },
+    {
+      "id": "redirect-checker",
+      "name": "重定向链检查",
+      "description": "URL → 完整重定向链、状态码/Location/Headers、循环检测、最终目标、HSTS 预加载、截图预览",
+      "category": "网络",
+      "tags": ["重定向", "301", "302", "重定向链", "SEO"],
+      "url": "tools/redirect-checker.html",
+      "icon": "🔄",
+      "featured": false
+    },
+    {
+      "id": "speed-test",
+      "name": "网速测试",
+      "description": "下载/上传/延迟/抖动/丢包、多节点/运营商、历史趋势、结果分享、CLI/API 集成、定时测速",
+      "category": "网络",
+      "tags": ["网速", "测速", "延迟", "带宽", "抖动"],
+      "url": "tools/speed-test.html",
+      "icon": "⚡",
+      "featured": false
+    },
+    {
+      "id": "websocket-test",
+      "name": "WebSocket 压测",
+      "description": "并发连接/消息吞吐/延迟分位数/错误率/重连率、自定义负载/协议、实时图表、报告导出",
+      "category": "性能",
+      "tags": ["WebSocket", "压测", "并发", "吞吐", "延迟"],
+      "url": "tools/websocket-test.html",
+      "icon": "📡",
+      "featured": false
+    },
+    {
+      "id": "api-mock",
+      "name": "API Mock 服务",
+      "description": "OpenAPI/Swagger → Mock Server、动态数据/模板/延迟/错误率/场景、团队协作/版本控制/部署预览",
+      "category": "开发",
+      "tags": ["Mock", "API", "OpenAPI", "Swagger", "前端开发"],
+      "url": "tools/api-mock.html",
+      "icon": "🎭",
+      "featured": false
+    },
+    {
+      "id": "graphql-voyager",
+      "name": "GraphQL 可视化探索",
+      "description": "Schema → 交互式依赖图、类型/字段/关系/指令、搜索/筛选/聚焦、导出 SVG/PNG/GraphQL SDL",
+      "category": "开发",
+      "tags": ["GraphQL", "可视化", "Schema", "依赖图", "探索"],
+      "url": "tools/graphql-voyager.html",
+      "icon": "🕸️",
+      "featured": false
+    },
+    {
+      "id": "dbdiagram",
+      "name": "数据库 ER 图设计",
+      "description": "DBML → ER 图、表/字段/关系/索引/注释、导出 SQL/MySQL/PostgreSQL/SQLite/MongoDB、版本控制、团队协作",
+      "category": "数据",
+      "tags": ["ER图", "数据库设计", "DBML", "SQL导出", "建模"],
+      "url": "tools/dbdiagram.html",
+      "icon": "🗃️",
+      "featured": false
+    },
+    {
+      "id": "mermaid-live",
+      "name": "Mermaid 图表编辑器",
+      "description": "流程图/时序图/类图/状态图/ER图/Gantt/饼图/思维导图/时间线、实时预览/主题/导出 SVG/PNG/Markdown",
+      "category": "写作",
+      "tags": ["Mermaid", "图表", "流程图", "时序图", "导出"],
+      "url": "tools/mermaid-live.html",
+      "icon": "📊",
+      "featured": true
+    },
+    {
+      "id": "plantuml",
+      "name": "PlantUML 编辑器",
+      "description": "UML 全谱系、实时渲染/语法高亮/自动完成/错误提示、包含标准库/C4/Archimate、导出 SVG/PNG/TXT",
+      "category": "写作",
+      "tags": ["PlantUML", "UML", "架构图", "时序图", "类图"],
+      "url": "tools/plantuml.html",
+      "icon": "🌱",
+      "featured": false
+    },
+    {
+      "id": "excalidraw",
+      "name": "手绘风白板",
+      "description": "无限画布、形状/箭头/文本/图片/框架、手绘风格/暗黑模式/网格/对齐、导出 PNG/SVG/Excalidraw/嵌入",
+      "category": "设计",
+      "tags": ["白板", "手绘", "Excalidraw", "草图", "协作"],
+      "url": "tools/excalidraw.html",
+      "icon": "✏️",
+      "featured": true
+    },
+    {
+      "id": "figma-to-code",
+      "name": "Figma 转代码",
+      "description": "Figma 链接 → React/Vue/Svelte/HTML+Tailwind/Flutter 代码、Auto Layout 还原、组件复用/Props/响应式、设计令牌",
+      "category": "设计",
+      "tags": ["Figma", "转代码", "React", "Tailwind", "设计交付"],
+      "url": "tools/figma-to-code.html",
+      "icon": "🔄",
+      "featured": false
+    },
+    {
+      "id": "storybook",
+      "name": "组件文档预览",
+      "description": "Storybook 静态构建托管、Story 搜索/分类/Controls/Actions/Accessibility、设计系统文档、视觉回归测试",
+      "category": "开发",
+      "tags": ["Storybook", "组件库", "文档", "设计系统", "视觉测试"],
+      "url": "tools/storybook.html",
+      "icon": "📚",
+      "featured": false
+    },
+    {
+      "id": "npm-trends",
+      "name": "NPM 包对比/趋势",
+      "description": "多包下载量/版本/依赖/体积/许可证/维护状态/关键词对比、周/月/年趋势图、相似包推荐、安全漏洞",
+      "category": "开发",
+      "tags": ["NPM", "包对比", "下载量", "趋势", "依赖分析"],
+      "url": "tools/npm-trends.html",
+      "icon": "📈",
+      "featured": false
+    },
+    {
+      "id": "bundlephobia",
+      "name": "包体积查询",
+      "description": "包名 → minified/gzipped 大小、依赖树/副作用/ESM 支持/类型定义/导出分析、同类包体积对比、安装命令",
+      "category": "开发",
+      "tags": ["包体积", "Bundlephobia", "依赖分析", "Tree-shaking", "ESM"],
+      "url": "tools/bundlephobia.html",
+      "icon": "📦",
+      "featured": false
+    },
+    {
+      "id": "can-i-use",
+      "name": "CSS/JS 特性兼容性",
+      "description": "特性名 → 全浏览器版本支持表、polyfill 建议/使用率/规范状态/启用标志、数据来源 caniuse.com、嵌入式查询",
+      "category": "开发",
+      "tags": ["兼容性", "caniuse", "Polyfill", "浏览器支持", "CSS/JS"],
+      "url": "tools/can-i-use.html",
+      "icon": "🌐",
+      "featured": false
+    },
+    {
+      "id": "web-vitals",
+      "name": "Core Web Vitals 监控",
+      "description": "LCP/FID/CLS/INP/TTFB 实测、实验室/现场数据、阈值判定/优化建议、历史记录/对比、Lighthouse 集成",
+      "category": "性能",
+      "tags": ["Web Vitals", "LCP", "CLS", "INP", "性能监控"],
+      "url": "tools/web-vitals.html",
+      "icon": "📊",
+      "featured": false
+    },
+    {
+      "id": "privacy-policy",
+      "name": "隐私政策生成器",
+      "description": "GDPR/CCPA/PIPL 合规、数据收集/用途/共享/权利/联系方式/第三方/国际传输/Cookie、多语言、定期更新提醒",
+      "category": "法律",
+      "tags": ["隐私政策", "GDPR", "CCPA", "合规", "Cookie"],
+      "url": "tools/privacy-policy.html",
+      "icon": "🔒",
+      "featured": false
+    },
+    {
+      "id": "terms-generator",
+      "name": "服务条款生成器",
+      "description": "SaaS/电商/市场/内容/应用 模板、用户义务/知识产权/责任限制/终止/争议解决/管辖法、定制化章节",
+      "category": "法律",
+      "tags": ["服务条款", "ToS", "法律文档", "SaaS", "用户协议"],
+      "url": "tools/terms-generator.html",
+      "icon": "📜",
+      "featured": false
+    },
+    {
+      "id": "cookie-consent",
+      "name": "Cookie 同意横幅生成",
+      "description": "GDPR/ePrivacy 合规、分类/用途/过期/第三方、Google Consent Mode v2/TCF 2.0、自定义样式/位置/语言、脚本生成",
+      "category": "法律",
+      "tags": ["Cookie", "同意", "GDPR", "Consent Mode", "横幅"],
+      "url": "tools/cookie-consent.html",
+      "icon": "🍪",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# UP - Daily Static Tools
+# robots.txt for GitHub Pages
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yww006.github.io/up/sitemap.xml
+
+# Crawl-delay (optional, be nice to servers)
+Crawl-delay: 10
+
+# Disallow admin/private paths (none in this static site)
+# Disallow: /scripts/
+# Disallow: /node_modules/
+# Disallow: /.github/
+
+# Host
+Host: https://yww006.github.io/up

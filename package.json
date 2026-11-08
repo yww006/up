@@ -1,0 +1,31 @@
+{
+  "name": "up-daily-tools",
+  "version": "1.0.0",
+  "description": "UP - 每日一个静态工具 | Daily static tools with beautiful backgrounds",
+  "private": true,
+  "scripts": {
+    "generate:daily": "node scripts/generate-daily.js",
+    "generate:archive": "node scripts/generate-archive.js",
+    "generate:rss": "node scripts/generate-rss.js",
+    "generate:sitemap": "node scripts/generate-sitemap.js",
+    "generate:all": "npm run generate:daily && npm run generate:archive && npm run generate:rss && npm run generate:sitemap",
+    "dev": "npx serve . -p 3000",
+    "test": "node --test scripts/*.test.js"
+  },
+  "keywords": [
+    "tools",
+    "daily",
+    "productivity",
+    "developer-tools",
+    "static-site",
+    "github-pages"
+  ],
+  "author": "yww006",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
