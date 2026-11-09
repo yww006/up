@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-08",
-  "dateFormatted": "2026年11月8日星期日",
+  "date": "2026-11-09",
+  "dateFormatted": "2026年11月9日星期一",
   "tool": {
-    "id": "tailwind-config",
-    "name": "Tailwind 配置可视化",
-    "description": "主题色/间距/字体/断点/阴影/动画 可视化编辑、预设导入、配置文件导出、JIT 类名预览、插件管理",
+    "id": "commit-message",
+    "name": "Git Commit Message 生成",
+    "description": "Conventional Commits 可视化构建、类型/范围/主题/正文/脚注、Emoji/破坏性变更、Git Hooks 集成模板",
     "category": "开发",
     "tags": [
-      "Tailwind",
-      "配置",
-      "主题",
-      "CSS框架"
+      "Git",
+      "Commit",
+      "Conventional Commits",
+      "规范"
     ],
-    "icon": "🎯",
-    "url": "https://tailwindconfig.com/",
+    "icon": "📝",
+    "url": "https://commitlint.js.org/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 313
+  "dayOfYear": 314
 }

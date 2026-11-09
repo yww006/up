@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:15:39 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📝 Git Commit Message 生成 — 开发</title>
+      <link>https://yww006.github.io/up/https://commitlint.js.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://commitlint.js.org/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>Git Commit Message 生成</strong> (开发)</p>
+        <p>Conventional Commits 可视化构建、类型/范围/主题/正文/脚注、Emoji/破坏性变更、Git Hooks 集成模板</p>
+        <p>标签: Git, Commit, Conventional Commits, 规范</p>
+        <p><a href="https://yww006.github.io/up/https://commitlint.js.org/">立即使用 →</a></p>
+      ]]></description>
+      <category>开发</category>
+    </item>
+      
+
     <item>
       <title>🎯 Tailwind 配置可视化 — 开发</title>
       <link>https://yww006.github.io/up/https://tailwindconfig.com/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.toptal.com/developers/cssminifier">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>🤖 robots.txt 生成/验证 — SEO</title>
-      <link>https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>robots.txt 生成/验证</strong> (SEO)</p>
-        <p>可视化配置 User-agent/Disallow/Allow/Sitemap/Crawl-delay、语法验证、Google 兼容性检查、导出文件</p>
-        <p>标签: robots.txt, 爬虫, SEO, Sitemap</p>
-        <p><a href="https://yww006.github.io/up/https://www.robotstxt.org/robotstxt.html">立即使用 →</a></p>
-      ]]></description>
-      <category>SEO</category>
     </item>
       
   </channel>
