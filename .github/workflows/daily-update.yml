@@ -1,10 +1,10 @@
-name: Daily Tool Update
+name: Daily Tool Update (08:00 Beijing)
 
 on:
   schedule:
     # Run at 00:00 UTC daily (08:00 Beijing time)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -32,9 +32,6 @@ jobs:
 
       - name: Generate daily tool data
         run: node scripts/generate-daily.js
-
-      - name: Generate archive page
-        run: node scripts/generate-archive.js
 
       - name: Generate RSS feed
         run: node scripts/generate-rss.js
