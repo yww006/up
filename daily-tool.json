@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-09",
-  "dateFormatted": "2026年11月9日星期一",
+  "date": "2026-11-10",
+  "dateFormatted": "2026年11月10日星期二",
   "tool": {
-    "id": "commit-message",
-    "name": "Git Commit Message 生成",
-    "description": "Conventional Commits 可视化构建、类型/范围/主题/正文/脚注、Emoji/破坏性变更、Git Hooks 集成模板",
+    "id": "gitignore-generator",
+    "name": ".gitignore 生成器",
+    "description": "500+ 语言/框架/IDE/OS 模板、多选合并、自定义规则、GitHub 官方模板同步、一键下载/复制",
     "category": "开发",
     "tags": [
+      ".gitignore",
       "Git",
-      "Commit",
-      "Conventional Commits",
-      "规范"
+      "模板",
+      "忽略文件"
     ],
-    "icon": "📝",
-    "url": "https://commitlint.js.org/",
+    "icon": "🚫",
+    "url": "https://www.toptal.com/developers/gitignore",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 314
+  "dayOfYear": 315
 }
