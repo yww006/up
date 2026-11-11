@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-10",
-  "dateFormatted": "2026年11月10日星期二",
+  "date": "2026-11-11",
+  "dateFormatted": "2026年11月11日星期三",
   "tool": {
-    "id": "gitignore-generator",
-    "name": ".gitignore 生成器",
-    "description": "500+ 语言/框架/IDE/OS 模板、多选合并、自定义规则、GitHub 官方模板同步、一键下载/复制",
-    "category": "开发",
+    "id": "license-generator",
+    "name": "开源许可证生成器",
+    "description": "MIT/Apache-2.0/GPL-3.0/BSD-3/MPL-2.0/AGPL-3.0/Unlicense 选择、年份/作者/项目名填充、兼容性对比、SPDX 标识",
+    "category": "法律",
     "tags": [
-      ".gitignore",
-      "Git",
-      "模板",
-      "忽略文件"
+      "许可证",
+      "开源",
+      "MIT",
+      "Apache",
+      "GPL"
     ],
-    "icon": "🚫",
-    "url": "https://www.toptal.com/developers/gitignore",
+    "icon": "⚖️",
+    "url": "https://choosealicense.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 315
+  "dayOfYear": 316
 }

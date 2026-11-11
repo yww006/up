@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:54:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:23:56 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>⚖️ 开源许可证生成器 — 法律</title>
+      <link>https://yww006.github.io/up/https://choosealicense.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://choosealicense.com/</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>开源许可证生成器</strong> (法律)</p>
+        <p>MIT/Apache-2.0/GPL-3.0/BSD-3/MPL-2.0/AGPL-3.0/Unlicense 选择、年份/作者/项目名填充、兼容性对比、SPDX 标识</p>
+        <p>标签: 许可证, 开源, MIT, Apache, GPL</p>
+        <p><a href="https://yww006.github.io/up/https://choosealicense.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>法律</category>
+    </item>
+      
+
     <item>
       <title>🚫 .gitignore 生成器 — 开发</title>
       <link>https://yww006.github.io/up/https://www.toptal.com/developers/gitignore</link>
@@ -442,21 +457,6 @@
         <p>多方言支持、关键字大小写、缩进风格、逗号首尾、CTE 对齐、注释保留、压缩/展开模式</p>
         <p>标签: SQL, 格式化, 美化, 数据库</p>
         <p><a href="https://yww006.github.io/up/https://sqlformat.org/">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>📊 文本/代码对比 — 开发</title>
-      <link>https://yww006.github.io/up/https://www.diffchecker.com/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.diffchecker.com/</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>文本/代码对比</strong> (开发)</p>
-        <p>行级/字符级 Diff、统一/并排视图、语法高亮、忽略空白/大小写、合并冲突解决、导出 HTML 报告</p>
-        <p>标签: Diff, 对比, 合并, 代码审查</p>
-        <p><a href="https://yww006.github.io/up/https://www.diffchecker.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
