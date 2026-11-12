@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-11",
-  "dateFormatted": "2026年11月11日星期三",
+  "date": "2026-11-12",
+  "dateFormatted": "2026年11月12日星期四",
   "tool": {
-    "id": "license-generator",
-    "name": "开源许可证生成器",
-    "description": "MIT/Apache-2.0/GPL-3.0/BSD-3/MPL-2.0/AGPL-3.0/Unlicense 选择、年份/作者/项目名填充、兼容性对比、SPDX 标识",
-    "category": "法律",
+    "id": "semver-calculator",
+    "name": "语义化版本计算器",
+    "description": "版本号解析/比较/递增、预发布/构建元数据、范围匹配、^/~/>/= 语法、npm/Go/Rust/Cargo 兼容",
+    "category": "开发",
     "tags": [
-      "许可证",
-      "开源",
-      "MIT",
-      "Apache",
-      "GPL"
+      "SemVer",
+      "版本号",
+      "语义化版本",
+      "依赖管理"
     ],
-    "icon": "⚖️",
-    "url": "https://choosealicense.com/",
+    "icon": "🔢",
+    "url": "https://semver.org/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 316
+  "dayOfYear": 317
 }

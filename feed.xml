@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:33:38 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🔢 语义化版本计算器 — 开发</title>
+      <link>https://yww006.github.io/up/https://semver.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://semver.org/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>语义化版本计算器</strong> (开发)</p>
+        <p>版本号解析/比较/递增、预发布/构建元数据、范围匹配、^/~/>/= 语法、npm/Go/Rust/Cargo 兼容</p>
+        <p>标签: SemVer, 版本号, 语义化版本, 依赖管理</p>
+        <p><a href="https://yww006.github.io/up/https://semver.org/">立即使用 →</a></p>
+      ]]></description>
+      <category>开发</category>
+    </item>
+      
+
     <item>
       <title>⚖️ 开源许可证生成器 — 法律</title>
       <link>https://yww006.github.io/up/https://choosealicense.com/</link>
@@ -442,21 +457,6 @@
         <p>REST/GraphQL/WebSocket 请求构建、环境变量、历史记录、集合导入导出、自动化测试脚本、响应可视化</p>
         <p>标签: API, 测试, REST, GraphQL, WebSocket</p>
         <p><a href="https://yww006.github.io/up/https://reqbin.com/">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>🗄️ SQL 格式化/美化 — 开发</title>
-      <link>https://yww006.github.io/up/https://sqlformat.org/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://sqlformat.org/</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>SQL 格式化/美化</strong> (开发)</p>
-        <p>多方言支持、关键字大小写、缩进风格、逗号首尾、CTE 对齐、注释保留、压缩/展开模式</p>
-        <p>标签: SQL, 格式化, 美化, 数据库</p>
-        <p><a href="https://yww006.github.io/up/https://sqlformat.org/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>
