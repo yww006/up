@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:47:23 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📦 打包体积分析 — 开发</title>
+      <link>https://yww006.github.io/up/https://webpack.github.io/analyse/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://webpack.github.io/analyse/</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>打包体积分析</strong> (开发)</p>
+        <p>上传 webpack/rollup/vite/esbuild stats.json → 树状图/旭日图/依赖关系、重复模块/大文件/优化建议</p>
+        <p>标签: 打包分析, Webpack, Vite, 体积优化, 依赖分析</p>
+        <p><a href="https://yww006.github.io/up/https://webpack.github.io/analyse/">立即使用 →</a></p>
+      ]]></description>
+      <category>开发</category>
+    </item>
+      
+
     <item>
       <title>🔢 语义化版本计算器 — 开发</title>
       <link>https://yww006.github.io/up/https://semver.org/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/">立即使用 →</a></p>
       ]]></description>
       <category>运维</category>
-    </item>
-      
-
-    <item>
-      <title>🚀 轻量 API 测试器 — 开发</title>
-      <link>https://yww006.github.io/up/https://reqbin.com/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://reqbin.com/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>轻量 API 测试器</strong> (开发)</p>
-        <p>REST/GraphQL/WebSocket 请求构建、环境变量、历史记录、集合导入导出、自动化测试脚本、响应可视化</p>
-        <p>标签: API, 测试, REST, GraphQL, WebSocket</p>
-        <p><a href="https://yww006.github.io/up/https://reqbin.com/">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
     </item>
       
   </channel>

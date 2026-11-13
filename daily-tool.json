@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-12",
-  "dateFormatted": "2026年11月12日星期四",
+  "date": "2026-11-13",
+  "dateFormatted": "2026年11月13日星期五",
   "tool": {
-    "id": "semver-calculator",
-    "name": "语义化版本计算器",
-    "description": "版本号解析/比较/递增、预发布/构建元数据、范围匹配、^/~/>/= 语法、npm/Go/Rust/Cargo 兼容",
+    "id": "bundle-analyzer",
+    "name": "打包体积分析",
+    "description": "上传 webpack/rollup/vite/esbuild stats.json → 树状图/旭日图/依赖关系、重复模块/大文件/优化建议",
     "category": "开发",
     "tags": [
-      "SemVer",
-      "版本号",
-      "语义化版本",
-      "依赖管理"
+      "打包分析",
+      "Webpack",
+      "Vite",
+      "体积优化",
+      "依赖分析"
     ],
-    "icon": "🔢",
-    "url": "https://semver.org/",
+    "icon": "📦",
+    "url": "https://webpack.github.io/analyse/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 317
+  "dayOfYear": 318
 }
