@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:45:39 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🏎️ Lighthouse CI 报告 — 性能</title>
+      <link>https://yww006.github.io/up/https://github.com/GoogleChrome/lighthouse-ci</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://github.com/GoogleChrome/lighthouse-ci</guid>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>Lighthouse CI 报告</strong> (性能)</p>
+        <p>URL → Performance/Accessibility/Best Practices/SEO/PWA 评分、核心 Web Vitals、预算阈值、历史趋势、GitHub PR 注释</p>
+        <p>标签: Lighthouse, 性能, Web Vitals, CI/CD</p>
+        <p><a href="https://yww006.github.io/up/https://github.com/GoogleChrome/lighthouse-ci">立即使用 →</a></p>
+      ]]></description>
+      <category>性能</category>
+    </item>
+      
+
     <item>
       <title>📦 打包体积分析 — 开发</title>
       <link>https://yww006.github.io/up/https://webpack.github.io/analyse/</link>
@@ -442,21 +457,6 @@
         <p>Deployment/Service/Ingress/ConfigMap/Secret/PVC/HPA 可视化生成、模板变量、Helm Chart 骨架、kubectl 干运行</p>
         <p>标签: Kubernetes, K8s, YAML, Helm</p>
         <p><a href="https://yww006.github.io/up/https://k8syaml.com/">立即使用 →</a></p>
-      ]]></description>
-      <category>运维</category>
-    </item>
-      
-
-    <item>
-      <title>🐳 Docker 命令生成器 — 运维</title>
-      <link>https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/</guid>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>Docker 命令生成器</strong> (运维)</p>
-        <p>可视化构建 docker run / docker-compose / Dockerfile、端口/卷/环境/网络/资源限制、最佳实践模板</p>
-        <p>标签: Docker, 容器, docker-compose, Dockerfile</p>
-        <p><a href="https://yww006.github.io/up/https://www.docker.com/products/docker-desktop/">立即使用 →</a></p>
       ]]></description>
       <category>运维</category>
     </item>

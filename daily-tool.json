@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-13",
-  "dateFormatted": "2026年11月13日星期五",
+  "date": "2026-11-14",
+  "dateFormatted": "2026年11月14日星期六",
   "tool": {
-    "id": "bundle-analyzer",
-    "name": "打包体积分析",
-    "description": "上传 webpack/rollup/vite/esbuild stats.json → 树状图/旭日图/依赖关系、重复模块/大文件/优化建议",
-    "category": "开发",
+    "id": "lighthouse-ci",
+    "name": "Lighthouse CI 报告",
+    "description": "URL → Performance/Accessibility/Best Practices/SEO/PWA 评分、核心 Web Vitals、预算阈值、历史趋势、GitHub PR 注释",
+    "category": "性能",
     "tags": [
-      "打包分析",
-      "Webpack",
-      "Vite",
-      "体积优化",
-      "依赖分析"
+      "Lighthouse",
+      "性能",
+      "Web Vitals",
+      "CI/CD"
     ],
-    "icon": "📦",
-    "url": "https://webpack.github.io/analyse/",
+    "icon": "🏎️",
+    "url": "https://github.com/GoogleChrome/lighthouse-ci",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 318
+  "dayOfYear": 319
 }
