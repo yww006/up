@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:25:00 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🖼️ 图片压缩/格式转换 — 工具</title>
+      <link>https://yww006.github.io/up/https://squoosh.app/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://squoosh.app/</guid>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>图片压缩/格式转换</strong> (工具)</p>
+        <p>AVIF/WebP/JPEG/PNG/SVG 压缩、质量/尺寸/渐进式/无损、批量拖拽、压缩率对比、EXIF 保留/移除</p>
+        <p>标签: 图片压缩, WebP, AVIF, 批量处理, 格式转换</p>
+        <p><a href="https://yww006.github.io/up/https://squoosh.app/">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>🏎️ Lighthouse CI 报告 — 性能</title>
       <link>https://yww006.github.io/up/https://github.com/GoogleChrome/lighthouse-ci</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://regexlib.com/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>☸️ Kubernetes YAML 生成器 — 运维</title>
-      <link>https://yww006.github.io/up/https://k8syaml.com/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://k8syaml.com/</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>Kubernetes YAML 生成器</strong> (运维)</p>
-        <p>Deployment/Service/Ingress/ConfigMap/Secret/PVC/HPA 可视化生成、模板变量、Helm Chart 骨架、kubectl 干运行</p>
-        <p>标签: Kubernetes, K8s, YAML, Helm</p>
-        <p><a href="https://yww006.github.io/up/https://k8syaml.com/">立即使用 →</a></p>
-      ]]></description>
-      <category>运维</category>
     </item>
       
   </channel>
