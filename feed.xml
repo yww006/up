@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:25:47 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🎬 视频压缩/转码 — 工具</title>
+      <link>https://yww006.github.io/up/https://www.online-convert.com/video-compressor</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.online-convert.com/video-compressor</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>视频压缩/转码</strong> (工具)</p>
+        <p>H.264/H.265/VP9/AV1 转码、CRF/比特率/分辨率/帧率控制、硬件加速、字幕烧录、GIF/WebM 生成</p>
+        <p>标签: 视频压缩, 转码, H.265, AV1, GIF</p>
+        <p><a href="https://yww006.github.io/up/https://www.online-convert.com/video-compressor">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>🖼️ 图片压缩/格式转换 — 工具</title>
       <link>https://yww006.github.io/up/https://squoosh.app/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.useragentstring.com/">立即使用 →</a></p>
       ]]></description>
       <category>网络</category>
-    </item>
-      
-
-    <item>
-      <title>📚 常用正则库 — 开发</title>
-      <link>https://yww006.github.io/up/https://regexlib.com/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://regexlib.com/</guid>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>常用正则库</strong> (开发)</p>
-        <p>邮箱/手机/身份证/URL/IP/日期/金额/中文/密码强度/HTML标签/Markdown 等 50+ 即用正则、测试、复制</p>
-        <p>标签: 正则库, 常用正则, 验证, 表单</p>
-        <p><a href="https://yww006.github.io/up/https://regexlib.com/">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
     </item>
       
   </channel>

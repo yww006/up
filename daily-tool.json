@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-15",
-  "dateFormatted": "2026年11月15日星期日",
+  "date": "2026-11-16",
+  "dateFormatted": "2026年11月16日星期一",
   "tool": {
-    "id": "image-optimizer",
-    "name": "图片压缩/格式转换",
-    "description": "AVIF/WebP/JPEG/PNG/SVG 压缩、质量/尺寸/渐进式/无损、批量拖拽、压缩率对比、EXIF 保留/移除",
+    "id": "video-compressor",
+    "name": "视频压缩/转码",
+    "description": "H.264/H.265/VP9/AV1 转码、CRF/比特率/分辨率/帧率控制、硬件加速、字幕烧录、GIF/WebM 生成",
     "category": "工具",
     "tags": [
-      "图片压缩",
-      "WebP",
-      "AVIF",
-      "批量处理",
-      "格式转换"
+      "视频压缩",
+      "转码",
+      "H.265",
+      "AV1",
+      "GIF"
     ],
-    "icon": "🖼️",
-    "url": "https://squoosh.app/",
-    "featured": true
+    "icon": "🎬",
+    "url": "https://www.online-convert.com/video-compressor",
+    "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 320
+  "dayOfYear": 321
 }
