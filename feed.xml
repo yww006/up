@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:25:54 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🎵 音频剪辑/转换 — 工具</title>
+      <link>https://yww006.github.io/up/https://twistedwave.com/online/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://twistedwave.com/online/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>音频剪辑/转换</strong> (工具)</p>
+        <p>MP3/WAV/FLAC/OGG/AAC 互转、裁剪/淡入淡出/音量/变速/变调、波形可视化、批量处理、ID3 标签编辑</p>
+        <p>标签: 音频, 转换, 剪辑, 波形, ID3</p>
+        <p><a href="https://yww006.github.io/up/https://twistedwave.com/online/">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>🎬 视频压缩/转码 — 工具</title>
       <link>https://yww006.github.io/up/https://www.online-convert.com/video-compressor</link>
@@ -442,21 +457,6 @@
         <p>IANA 官方端口、常见服务默认端口、协议类型、安全风险等级、防火墙规则模板、搜索筛选</p>
         <p>标签: 端口, IANA, 防火墙, 网络服务</p>
         <p><a href="https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml">立即使用 →</a></p>
-      ]]></description>
-      <category>网络</category>
-    </item>
-      
-
-    <item>
-      <title>🖥️ User-Agent 解析器 — 网络</title>
-      <link>https://yww006.github.io/up/https://www.useragentstring.com/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.useragentstring.com/</guid>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>User-Agent 解析器</strong> (网络)</p>
-        <p>解析 UA 字符串 → 浏览器/引擎/操作系统/设备/爬虫判定、版本号、兼容性建议、批量解析</p>
-        <p>标签: User-Agent, 解析, 浏览器, 设备检测</p>
-        <p><a href="https://yww006.github.io/up/https://www.useragentstring.com/">立即使用 →</a></p>
       ]]></description>
       <category>网络</category>
     </item>

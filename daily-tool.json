@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-16",
-  "dateFormatted": "2026年11月16日星期一",
+  "date": "2026-11-17",
+  "dateFormatted": "2026年11月17日星期二",
   "tool": {
-    "id": "video-compressor",
-    "name": "视频压缩/转码",
-    "description": "H.264/H.265/VP9/AV1 转码、CRF/比特率/分辨率/帧率控制、硬件加速、字幕烧录、GIF/WebM 生成",
+    "id": "audio-tool",
+    "name": "音频剪辑/转换",
+    "description": "MP3/WAV/FLAC/OGG/AAC 互转、裁剪/淡入淡出/音量/变速/变调、波形可视化、批量处理、ID3 标签编辑",
     "category": "工具",
     "tags": [
-      "视频压缩",
-      "转码",
-      "H.265",
-      "AV1",
-      "GIF"
+      "音频",
+      "转换",
+      "剪辑",
+      "波形",
+      "ID3"
     ],
-    "icon": "🎬",
-    "url": "https://www.online-convert.com/video-compressor",
+    "icon": "🎵",
+    "url": "https://twistedwave.com/online/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 321
+  "dayOfYear": 322
 }
