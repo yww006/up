@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:52:00 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📄 PDF 工具箱 — 工具</title>
+      <link>https://yww006.github.io/up/https://www.ilovepdf.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.ilovepdf.com/</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>PDF 工具箱</strong> (工具)</p>
+        <p>合并/拆分/旋转/压缩/加密/水印/提取图片/转图片/OCR/表单填充/签名/书签/元数据编辑</p>
+        <p>标签: PDF, 合并, 拆分, OCR, 水印</p>
+        <p><a href="https://yww006.github.io/up/https://www.ilovepdf.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>🎵 音频剪辑/转换 — 工具</title>
       <link>https://yww006.github.io/up/https://twistedwave.com/online/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html">立即使用 →</a></p>
       ]]></description>
       <category>安全</category>
-    </item>
-      
-
-    <item>
-      <title>🔌 常用端口速查表 — 网络</title>
-      <link>https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml</guid>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>常用端口速查表</strong> (网络)</p>
-        <p>IANA 官方端口、常见服务默认端口、协议类型、安全风险等级、防火墙规则模板、搜索筛选</p>
-        <p>标签: 端口, IANA, 防火墙, 网络服务</p>
-        <p><a href="https://yww006.github.io/up/https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml">立即使用 →</a></p>
-      ]]></description>
-      <category>网络</category>
     </item>
       
   </channel>

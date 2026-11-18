@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-17",
-  "dateFormatted": "2026年11月17日星期二",
+  "date": "2026-11-18",
+  "dateFormatted": "2026年11月18日星期三",
   "tool": {
-    "id": "audio-tool",
-    "name": "音频剪辑/转换",
-    "description": "MP3/WAV/FLAC/OGG/AAC 互转、裁剪/淡入淡出/音量/变速/变调、波形可视化、批量处理、ID3 标签编辑",
+    "id": "pdf-toolkit",
+    "name": "PDF 工具箱",
+    "description": "合并/拆分/旋转/压缩/加密/水印/提取图片/转图片/OCR/表单填充/签名/书签/元数据编辑",
     "category": "工具",
     "tags": [
-      "音频",
-      "转换",
-      "剪辑",
-      "波形",
-      "ID3"
+      "PDF",
+      "合并",
+      "拆分",
+      "OCR",
+      "水印"
     ],
-    "icon": "🎵",
-    "url": "https://twistedwave.com/online/",
+    "icon": "📄",
+    "url": "https://www.ilovepdf.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 322
+  "dayOfYear": 323
 }
