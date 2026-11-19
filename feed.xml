@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:43:15 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🔍 OCR 文字识别 — 工具</title>
+      <link>https://yww006.github.io/up/https://www.onlineocr.net/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.onlineocr.net/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>OCR 文字识别</strong> (工具)</p>
+        <p>图片/PDF → 文本、多语言/手写/表格识别、位置坐标/置信度、批量处理、导出 TXT/DOCX/JSON/搜索型 PDF</p>
+        <p>标签: OCR, 文字识别, 表格识别, 手写识别</p>
+        <p><a href="https://yww006.github.io/up/https://www.onlineocr.net/">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>📄 PDF 工具箱 — 工具</title>
       <link>https://yww006.github.io/up/https://www.ilovepdf.com/</link>
@@ -442,21 +457,6 @@
         <p>可配置长度/字符集/排除易混淆字符/可读模式/短语模式、熵值计算、批量生成、密码强度评估</p>
         <p>标签: 密码, 生成器, 强密码, 熵值</p>
         <p><a href="https://yww006.github.io/up/https://www.passwordgenerator.net/">立即使用 →</a></p>
-      ]]></description>
-      <category>安全</category>
-    </item>
-      
-
-    <item>
-      <title>🔒 SSL 证书检查 — 安全</title>
-      <link>https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>SSL 证书检查</strong> (安全)</p>
-        <p>域名证书详情、有效期/签发者/SAN/指纹/链完整性、OCSP/CRL、过期提醒、证书透明度日志</p>
-        <p>标签: SSL, TLS, 证书, HTTPS, 安全</p>
-        <p><a href="https://yww006.github.io/up/https://www.sslshopper.com/ssl-checker.html">立即使用 →</a></p>
       ]]></description>
       <category>安全</category>
     </item>

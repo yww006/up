@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-18",
-  "dateFormatted": "2026年11月18日星期三",
+  "date": "2026-11-19",
+  "dateFormatted": "2026年11月19日星期四",
   "tool": {
-    "id": "pdf-toolkit",
-    "name": "PDF 工具箱",
-    "description": "合并/拆分/旋转/压缩/加密/水印/提取图片/转图片/OCR/表单填充/签名/书签/元数据编辑",
+    "id": "ocr-tool",
+    "name": "OCR 文字识别",
+    "description": "图片/PDF → 文本、多语言/手写/表格识别、位置坐标/置信度、批量处理、导出 TXT/DOCX/JSON/搜索型 PDF",
     "category": "工具",
     "tags": [
-      "PDF",
-      "合并",
-      "拆分",
       "OCR",
-      "水印"
+      "文字识别",
+      "表格识别",
+      "手写识别"
     ],
-    "icon": "📄",
-    "url": "https://www.ilovepdf.com/",
+    "icon": "🔍",
+    "url": "https://www.onlineocr.net/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 323
+  "dayOfYear": 324
 }
