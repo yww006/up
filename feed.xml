@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:34:50 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📊 条形码生成器 — 工具</title>
+      <link>https://yww006.github.io/up/https://barcode.tec-it.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://barcode.tec-it.com/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>条形码生成器</strong> (工具)</p>
+        <p>Code128/EAN-13/UPC-A/QR/DataMatrix/PDF417/Aztec 生成、尺寸/边距/字体/颜色、批量序列号、SVG/PNG 导出</p>
+        <p>标签: 条形码, Code128, EAN13, 批量生成, 库存</p>
+        <p><a href="https://yww006.github.io/up/https://barcode.tec-it.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>工具</category>
+    </item>
+      
+
     <item>
       <title>🔍 OCR 文字识别 — 工具</title>
       <link>https://yww006.github.io/up/https://www.onlineocr.net/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm">立即使用 →</a></p>
       ]]></description>
       <category>数据</category>
-    </item>
-      
-
-    <item>
-      <title>🛡️ 强密码生成器 — 安全</title>
-      <link>https://yww006.github.io/up/https://www.passwordgenerator.net/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.passwordgenerator.net/</guid>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>强密码生成器</strong> (安全)</p>
-        <p>可配置长度/字符集/排除易混淆字符/可读模式/短语模式、熵值计算、批量生成、密码强度评估</p>
-        <p>标签: 密码, 生成器, 强密码, 熵值</p>
-        <p><a href="https://yww006.github.io/up/https://www.passwordgenerator.net/">立即使用 →</a></p>
-      ]]></description>
-      <category>安全</category>
     </item>
       
   </channel>

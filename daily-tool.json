@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-19",
-  "dateFormatted": "2026年11月19日星期四",
+  "date": "2026-11-20",
+  "dateFormatted": "2026年11月20日星期五",
   "tool": {
-    "id": "ocr-tool",
-    "name": "OCR 文字识别",
-    "description": "图片/PDF → 文本、多语言/手写/表格识别、位置坐标/置信度、批量处理、导出 TXT/DOCX/JSON/搜索型 PDF",
+    "id": "barcode-generator",
+    "name": "条形码生成器",
+    "description": "Code128/EAN-13/UPC-A/QR/DataMatrix/PDF417/Aztec 生成、尺寸/边距/字体/颜色、批量序列号、SVG/PNG 导出",
     "category": "工具",
     "tags": [
-      "OCR",
-      "文字识别",
-      "表格识别",
-      "手写识别"
+      "条形码",
+      "Code128",
+      "EAN13",
+      "批量生成",
+      "库存"
     ],
-    "icon": "🔍",
-    "url": "https://www.onlineocr.net/",
+    "icon": "📊",
+    "url": "https://barcode.tec-it.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 324
+  "dayOfYear": 325
 }
