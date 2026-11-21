@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 04:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:28:35 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>⏰ 在线定时任务 — 运维</title>
+      <link>https://yww006.github.io/up/https://cron-job.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://cron-job.org/</guid>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>在线定时任务</strong> (运维)</p>
+        <p>HTTP/Webhook 定时触发、Cron 表达式/间隔/一次性、重试/超时/Headers/Body、执行日志/状态监控、免费额度</p>
+        <p>标签: 定时任务, Cron, Webhook, 调度, 监控</p>
+        <p><a href="https://yww006.github.io/up/https://cron-job.org/">立即使用 →</a></p>
+      ]]></description>
+      <category>运维</category>
+    </item>
+      
+
     <item>
       <title>📊 条形码生成器 — 工具</title>
       <link>https://yww006.github.io/up/https://barcode.tec-it.com/</link>
@@ -442,21 +457,6 @@
         <p>自然语言 → Excel/Google Sheets 公式、公式反向解释、常用函数库、嵌套可视化、错误排查</p>
         <p>标签: Excel, 公式, Google Sheets, 函数</p>
         <p><a href="https://yww006.github.io/up/https://exceljet.net/formulas">立即使用 →</a></p>
-      ]]></description>
-      <category>数据</category>
-    </item>
-      
-
-    <item>
-      <title>📈 CSV ↔ JSON 转换 — 数据</title>
-      <link>https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>CSV ↔ JSON 转换</strong> (数据)</p>
-        <p>双向转换、表头映射、类型推断、大文件流式处理、自定义分隔符/引用/转义、导出 Excel/TSV</p>
-        <p>标签: CSV, JSON, 转换, Excel, 数据处理</p>
-        <p><a href="https://yww006.github.io/up/https://www.convertcsv.com/csv-to-json.htm">立即使用 →</a></p>
       ]]></description>
       <category>数据</category>
     </item>

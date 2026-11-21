@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-20",
-  "dateFormatted": "2026年11月20日星期五",
+  "date": "2026-11-21",
+  "dateFormatted": "2026年11月21日星期六",
   "tool": {
-    "id": "barcode-generator",
-    "name": "条形码生成器",
-    "description": "Code128/EAN-13/UPC-A/QR/DataMatrix/PDF417/Aztec 生成、尺寸/边距/字体/颜色、批量序列号、SVG/PNG 导出",
-    "category": "工具",
+    "id": "cron-job",
+    "name": "在线定时任务",
+    "description": "HTTP/Webhook 定时触发、Cron 表达式/间隔/一次性、重试/超时/Headers/Body、执行日志/状态监控、免费额度",
+    "category": "运维",
     "tags": [
-      "条形码",
-      "Code128",
-      "EAN13",
-      "批量生成",
-      "库存"
+      "定时任务",
+      "Cron",
+      "Webhook",
+      "调度",
+      "监控"
     ],
-    "icon": "📊",
-    "url": "https://barcode.tec-it.com/",
+    "icon": "⏰",
+    "url": "https://cron-job.org/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 325
+  "dayOfYear": 326
 }
