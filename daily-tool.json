@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-21",
-  "dateFormatted": "2026年11月21日星期六",
+  "date": "2026-11-22",
+  "dateFormatted": "2026年11月22日星期日",
   "tool": {
-    "id": "cron-job",
-    "name": "在线定时任务",
-    "description": "HTTP/Webhook 定时触发、Cron 表达式/间隔/一次性、重试/超时/Headers/Body、执行日志/状态监控、免费额度",
-    "category": "运维",
+    "id": "dns-lookup",
+    "name": "DNS 查询工具",
+    "description": "A/AAAA/CNAME/MX/TXT/NS/SOA/CAA 记录查询、多节点/递归/权威、传播检查、DNSSEC 验证、响应时间",
+    "category": "网络",
     "tags": [
-      "定时任务",
-      "Cron",
-      "Webhook",
-      "调度",
-      "监控"
+      "DNS",
+      "域名解析",
+      "记录查询",
+      "传播检查"
     ],
-    "icon": "⏰",
-    "url": "https://cron-job.org/",
+    "icon": "🌍",
+    "url": "https://dnschecker.org/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 326
+  "dayOfYear": 327
 }

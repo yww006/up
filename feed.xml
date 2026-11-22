@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:42:34 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🌍 DNS 查询工具 — 网络</title>
+      <link>https://yww006.github.io/up/https://dnschecker.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://dnschecker.org/</guid>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>DNS 查询工具</strong> (网络)</p>
+        <p>A/AAAA/CNAME/MX/TXT/NS/SOA/CAA 记录查询、多节点/递归/权威、传播检查、DNSSEC 验证、响应时间</p>
+        <p>标签: DNS, 域名解析, 记录查询, 传播检查</p>
+        <p><a href="https://yww006.github.io/up/https://dnschecker.org/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>⏰ 在线定时任务 — 运维</title>
       <link>https://yww006.github.io/up/https://cron-job.org/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://json-schema.org/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>🧮 Excel 公式生成/解释 — 数据</title>
-      <link>https://yww006.github.io/up/https://exceljet.net/formulas</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://exceljet.net/formulas</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>Excel 公式生成/解释</strong> (数据)</p>
-        <p>自然语言 → Excel/Google Sheets 公式、公式反向解释、常用函数库、嵌套可视化、错误排查</p>
-        <p>标签: Excel, 公式, Google Sheets, 函数</p>
-        <p><a href="https://yww006.github.io/up/https://exceljet.net/formulas">立即使用 →</a></p>
-      ]]></description>
-      <category>数据</category>
     </item>
       
   </channel>
