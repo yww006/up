@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 03:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:18:56 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🔎 WHOIS 域名信息 — 网络</title>
+      <link>https://yww006.github.io/up/https://whois.domaintools.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://whois.domaintools.com/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>WHOIS 域名信息</strong> (网络)</p>
+        <p>注册商/注册时间/过期时间/持有者/DNS 服务器/状态、批量查询、到期提醒、域名监控、历史记录</p>
+        <p>标签: WHOIS, 域名, 注册信息, 过期监控</p>
+        <p><a href="https://yww006.github.io/up/https://whois.domaintools.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>🌍 DNS 查询工具 — 网络</title>
       <link>https://yww006.github.io/up/https://dnschecker.org/</link>
@@ -442,21 +457,6 @@
         <p>Schema 文档浏览、查询/变更/订阅自动补全、变量/Headers、历史记录、预览、导出 cURL/代码</p>
         <p>标签: GraphQL, Playground, Schema, 查询</p>
         <p><a href="https://yww006.github.io/up/https://github.com/graphql/graphql-playground">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>📐 JSON Schema 生成/验证 — 开发</title>
-      <link>https://yww006.github.io/up/https://json-schema.org/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://json-schema.org/</guid>
-      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>JSON Schema 生成/验证</strong> (开发)</p>
-        <p>JSON 样本 → Schema、Schema → TypeScript/Go/Java/代码、验证器、Draft 2019-09/2020-12、自定义关键字</p>
-        <p>标签: JSON Schema, 验证, TypeScript, 代码生成</p>
-        <p><a href="https://yww006.github.io/up/https://json-schema.org/">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>

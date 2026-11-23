@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-22",
-  "dateFormatted": "2026年11月22日星期日",
+  "date": "2026-11-23",
+  "dateFormatted": "2026年11月23日星期一",
   "tool": {
-    "id": "dns-lookup",
-    "name": "DNS 查询工具",
-    "description": "A/AAAA/CNAME/MX/TXT/NS/SOA/CAA 记录查询、多节点/递归/权威、传播检查、DNSSEC 验证、响应时间",
+    "id": "whois-tool",
+    "name": "WHOIS 域名信息",
+    "description": "注册商/注册时间/过期时间/持有者/DNS 服务器/状态、批量查询、到期提醒、域名监控、历史记录",
     "category": "网络",
     "tags": [
-      "DNS",
-      "域名解析",
-      "记录查询",
-      "传播检查"
+      "WHOIS",
+      "域名",
+      "注册信息",
+      "过期监控"
     ],
-    "icon": "🌍",
-    "url": "https://dnschecker.org/",
+    "icon": "🔎",
+    "url": "https://whois.domaintools.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 327
+  "dayOfYear": 328
 }
