@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 04:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:16:18 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📍 IP 地址工具箱 — 网络</title>
+      <link>https://yww006.github.io/up/https://www.ipaddressguide.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.ipaddressguide.com/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>IP 地址工具箱</strong> (网络)</p>
+        <p>本机 IP/归属地/ASN/代理检测/VPN/Tor、CIDR 计算/子网划分/掩码/网段/广播地址、IPv4/IPv6 互转</p>
+        <p>标签: IP, CIDR, 子网, 归属地, 代理检测</p>
+        <p><a href="https://yww006.github.io/up/https://www.ipaddressguide.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>🔎 WHOIS 域名信息 — 网络</title>
       <link>https://yww006.github.io/up/https://whois.domaintools.com/</link>
@@ -442,21 +457,6 @@
         <p>连接/重连/心跳、消息收发/格式化、二进制/文本、帧详情、连接状态、导出日志、自动重连策略</p>
         <p>标签: WebSocket, 实时通信, 调试, 心跳</p>
         <p><a href="https://yww006.github.io/up/https://www.websocket.org/echo.html">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
-    </item>
-      
-
-    <item>
-      <title>🎮 GraphQL Playground — 开发</title>
-      <link>https://yww006.github.io/up/https://github.com/graphql/graphql-playground</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://github.com/graphql/graphql-playground</guid>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>GraphQL Playground</strong> (开发)</p>
-        <p>Schema 文档浏览、查询/变更/订阅自动补全、变量/Headers、历史记录、预览、导出 cURL/代码</p>
-        <p>标签: GraphQL, Playground, Schema, 查询</p>
-        <p><a href="https://yww006.github.io/up/https://github.com/graphql/graphql-playground">立即使用 →</a></p>
       ]]></description>
       <category>开发</category>
     </item>

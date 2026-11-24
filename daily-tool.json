@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-23",
-  "dateFormatted": "2026年11月23日星期一",
+  "date": "2026-11-24",
+  "dateFormatted": "2026年11月24日星期二",
   "tool": {
-    "id": "whois-tool",
-    "name": "WHOIS 域名信息",
-    "description": "注册商/注册时间/过期时间/持有者/DNS 服务器/状态、批量查询、到期提醒、域名监控、历史记录",
+    "id": "ip-tool",
+    "name": "IP 地址工具箱",
+    "description": "本机 IP/归属地/ASN/代理检测/VPN/Tor、CIDR 计算/子网划分/掩码/网段/广播地址、IPv4/IPv6 互转",
     "category": "网络",
     "tags": [
-      "WHOIS",
-      "域名",
-      "注册信息",
-      "过期监控"
+      "IP",
+      "CIDR",
+      "子网",
+      "归属地",
+      "代理检测"
     ],
-    "icon": "🔎",
-    "url": "https://whois.domaintools.com/",
+    "icon": "📍",
+    "url": "https://www.ipaddressguide.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 328
+  "dayOfYear": 329
 }
