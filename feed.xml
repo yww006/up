@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:49:16 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📋 HTTP Headers 分析 — 网络</title>
+      <link>https://yww006.github.io/up/https://www.httpheadersonline.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.httpheadersonline.com/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>HTTP Headers 分析</strong> (网络)</p>
+        <p>请求/响应头完整解析、安全头检查/CSP/HSTS/X-Frame-Options/Referrer-Policy、缓存策略、Cookie 解析</p>
+        <p>标签: HTTP Headers, 安全头, CSP, HSTS, 缓存</p>
+        <p><a href="https://yww006.github.io/up/https://www.httpheadersonline.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>📍 IP 地址工具箱 — 网络</title>
       <link>https://yww006.github.io/up/https://www.ipaddressguide.com/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
-    </item>
-      
-
-    <item>
-      <title>🔌 WebSocket 客户端 — 开发</title>
-      <link>https://yww006.github.io/up/https://www.websocket.org/echo.html</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.websocket.org/echo.html</guid>
-      <pubDate>Mon, 26 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>WebSocket 客户端</strong> (开发)</p>
-        <p>连接/重连/心跳、消息收发/格式化、二进制/文本、帧详情、连接状态、导出日志、自动重连策略</p>
-        <p>标签: WebSocket, 实时通信, 调试, 心跳</p>
-        <p><a href="https://yww006.github.io/up/https://www.websocket.org/echo.html">立即使用 →</a></p>
-      ]]></description>
-      <category>开发</category>
     </item>
       
   </channel>

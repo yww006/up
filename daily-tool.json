@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-24",
-  "dateFormatted": "2026年11月24日星期二",
+  "date": "2026-11-25",
+  "dateFormatted": "2026年11月25日星期三",
   "tool": {
-    "id": "ip-tool",
-    "name": "IP 地址工具箱",
-    "description": "本机 IP/归属地/ASN/代理检测/VPN/Tor、CIDR 计算/子网划分/掩码/网段/广播地址、IPv4/IPv6 互转",
+    "id": "http-headers",
+    "name": "HTTP Headers 分析",
+    "description": "请求/响应头完整解析、安全头检查/CSP/HSTS/X-Frame-Options/Referrer-Policy、缓存策略、Cookie 解析",
     "category": "网络",
     "tags": [
-      "IP",
-      "CIDR",
-      "子网",
-      "归属地",
-      "代理检测"
+      "HTTP Headers",
+      "安全头",
+      "CSP",
+      "HSTS",
+      "缓存"
     ],
-    "icon": "📍",
-    "url": "https://www.ipaddressguide.com/",
+    "icon": "📋",
+    "url": "https://www.httpheadersonline.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 329
+  "dayOfYear": 330
 }
