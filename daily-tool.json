@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-25",
-  "dateFormatted": "2026年11月25日星期三",
+  "date": "2026-11-26",
+  "dateFormatted": "2026年11月26日星期四",
   "tool": {
-    "id": "http-headers",
-    "name": "HTTP Headers 分析",
-    "description": "请求/响应头完整解析、安全头检查/CSP/HSTS/X-Frame-Options/Referrer-Policy、缓存策略、Cookie 解析",
+    "id": "redirect-checker",
+    "name": "重定向链检查",
+    "description": "URL → 完整重定向链、状态码/Location/Headers、循环检测、最终目标、HSTS 预加载、截图预览",
     "category": "网络",
     "tags": [
-      "HTTP Headers",
-      "安全头",
-      "CSP",
-      "HSTS",
-      "缓存"
+      "重定向",
+      "301",
+      "302",
+      "重定向链",
+      "SEO"
     ],
-    "icon": "📋",
-    "url": "https://www.httpheadersonline.com/",
+    "icon": "🔄",
+    "url": "https://www.redirect-checker.org/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 330
+  "dayOfYear": 331
 }

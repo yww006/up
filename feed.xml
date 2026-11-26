@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:49:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:40:20 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>🔄 重定向链检查 — 网络</title>
+      <link>https://yww006.github.io/up/https://www.redirect-checker.org/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.redirect-checker.org/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>重定向链检查</strong> (网络)</p>
+        <p>URL → 完整重定向链、状态码/Location/Headers、循环检测、最终目标、HSTS 预加载、截图预览</p>
+        <p>标签: 重定向, 301, 302, 重定向链, SEO</p>
+        <p><a href="https://yww006.github.io/up/https://www.redirect-checker.org/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>📋 HTTP Headers 分析 — 网络</title>
       <link>https://yww006.github.io/up/https://www.httpheadersonline.com/</link>
@@ -442,21 +457,6 @@
         <p>项目类型选择 → 徽章/目录/安装/用法/贡献/许可证/贡献者图、动态徽章、GitHub Profile README</p>
         <p>标签: README, 模板, 徽章, GitHub</p>
         <p><a href="https://yww006.github.io/up/https://readme.so/">立即使用 →</a></p>
-      ]]></description>
-      <category>写作</category>
-    </item>
-      
-
-    <item>
-      <title>📋 Markdown 表格生成器 — 写作</title>
-      <link>https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>Markdown 表格生成器</strong> (写作)</p>
-        <p>Excel/CSV/JSON → Markdown 表格、对齐/合并单元格/转义、表格转 CSV/HTML/LaTeX、编辑器模式</p>
-        <p>标签: Markdown, 表格, 生成器, 转换</p>
-        <p><a href="https://yww006.github.io/up/https://www.tablesgenerator.com/markdown_tables">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
     </item>
