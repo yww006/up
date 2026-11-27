@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:40:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:34:05 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>⚡ 网速测试 — 网络</title>
+      <link>https://yww006.github.io/up/https://fast.com/</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://fast.com/</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>网速测试</strong> (网络)</p>
+        <p>下载/上传/延迟/抖动/丢包、多节点/运营商、历史趋势、结果分享、CLI/API 集成、定时测速</p>
+        <p>标签: 网速, 测速, 延迟, 带宽, 抖动</p>
+        <p><a href="https://yww006.github.io/up/https://fast.com/">立即使用 →</a></p>
+      ]]></description>
+      <category>网络</category>
+    </item>
+      
+
     <item>
       <title>🔄 重定向链检查 — 网络</title>
       <link>https://yww006.github.io/up/https://www.redirect-checker.org/</link>
@@ -442,21 +457,6 @@
         <p>Conventional Commits → 标准 Changelog、版本分组/链接提交/作者、GitHub/GitLab/Gitea 集成、模板自定义</p>
         <p>标签: Changelog, Conventional Commits, 发布日志, Git</p>
         <p><a href="https://yww006.github.io/up/https://github.com/cookpete/changelog-generator">立即使用 →</a></p>
-      ]]></description>
-      <category>写作</category>
-    </item>
-      
-
-    <item>
-      <title>📖 README 模板生成器 — 写作</title>
-      <link>https://yww006.github.io/up/https://readme.so/</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://readme.so/</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>README 模板生成器</strong> (写作)</p>
-        <p>项目类型选择 → 徽章/目录/安装/用法/贡献/许可证/贡献者图、动态徽章、GitHub Profile README</p>
-        <p>标签: README, 模板, 徽章, GitHub</p>
-        <p><a href="https://yww006.github.io/up/https://readme.so/">立即使用 →</a></p>
       ]]></description>
       <category>写作</category>
     </item>

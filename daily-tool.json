@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-26",
-  "dateFormatted": "2026年11月26日星期四",
+  "date": "2026-11-27",
+  "dateFormatted": "2026年11月27日星期五",
   "tool": {
-    "id": "redirect-checker",
-    "name": "重定向链检查",
-    "description": "URL → 完整重定向链、状态码/Location/Headers、循环检测、最终目标、HSTS 预加载、截图预览",
+    "id": "speed-test",
+    "name": "网速测试",
+    "description": "下载/上传/延迟/抖动/丢包、多节点/运营商、历史趋势、结果分享、CLI/API 集成、定时测速",
     "category": "网络",
     "tags": [
-      "重定向",
-      "301",
-      "302",
-      "重定向链",
-      "SEO"
+      "网速",
+      "测速",
+      "延迟",
+      "带宽",
+      "抖动"
     ],
-    "icon": "🔄",
-    "url": "https://www.redirect-checker.org/",
+    "icon": "⚡",
+    "url": "https://fast.com/",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 331
+  "dayOfYear": 332
 }
