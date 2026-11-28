@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-27",
-  "dateFormatted": "2026年11月27日星期五",
+  "date": "2026-11-28",
+  "dateFormatted": "2026年11月28日星期六",
   "tool": {
-    "id": "speed-test",
-    "name": "网速测试",
-    "description": "下载/上传/延迟/抖动/丢包、多节点/运营商、历史趋势、结果分享、CLI/API 集成、定时测速",
-    "category": "网络",
+    "id": "websocket-test",
+    "name": "WebSocket 压测",
+    "description": "并发连接/消息吞吐/延迟分位数/错误率/重连率、自定义负载/协议、实时图表、报告导出",
+    "category": "性能",
     "tags": [
-      "网速",
-      "测速",
-      "延迟",
-      "带宽",
-      "抖动"
+      "WebSocket",
+      "压测",
+      "并发",
+      "吞吐",
+      "延迟"
     ],
-    "icon": "⚡",
-    "url": "https://fast.com/",
+    "icon": "📡",
+    "url": "https://www.websocket.org/echo.html",
     "featured": false
   },
   "totalTools": 87,
-  "dayOfYear": 332
+  "dayOfYear": 333
 }

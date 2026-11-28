@@ -7,11 +7,26 @@
     <link>https://yww006.github.io/up</link>
     <description>每天推荐一个实用的在线静态工具，涵盖开发、设计、网络、数据、性能、法律等分类，提升工作效率</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:34:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:10:56 GMT</lastBuildDate>
     <atom:link href="https://yww006.github.io/up/feed.xml" rel="self" type="application/rss+xml" />
     <generator>UP Daily Tools Generator</generator>
     <ttl>1440</ttl>
     
+    <item>
+      <title>📡 WebSocket 压测 — 性能</title>
+      <link>https://yww006.github.io/up/https://www.websocket.org/echo.html</link>
+      <guid isPermaLink="true">https://yww006.github.io/up/https://www.websocket.org/echo.html</guid>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>WebSocket 压测</strong> (性能)</p>
+        <p>并发连接/消息吞吐/延迟分位数/错误率/重连率、自定义负载/协议、实时图表、报告导出</p>
+        <p>标签: WebSocket, 压测, 并发, 吞吐, 延迟</p>
+        <p><a href="https://yww006.github.io/up/https://www.websocket.org/echo.html">立即使用 →</a></p>
+      ]]></description>
+      <category>性能</category>
+    </item>
+      
+
     <item>
       <title>⚡ 网速测试 — 网络</title>
       <link>https://yww006.github.io/up/https://fast.com/</link>
@@ -444,21 +459,6 @@
         <p><a href="https://yww006.github.io/up/https://patorjk.com/software/taag/">立即使用 →</a></p>
       ]]></description>
       <category>趣味</category>
-    </item>
-      
-
-    <item>
-      <title>📋 Changelog 生成器 — 写作</title>
-      <link>https://yww006.github.io/up/https://github.com/cookpete/changelog-generator</link>
-      <guid isPermaLink="true">https://yww006.github.io/up/https://github.com/cookpete/changelog-generator</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 GMT</pubDate>
-      <description><![CDATA[
-        <p><strong>Changelog 生成器</strong> (写作)</p>
-        <p>Conventional Commits → 标准 Changelog、版本分组/链接提交/作者、GitHub/GitLab/Gitea 集成、模板自定义</p>
-        <p>标签: Changelog, Conventional Commits, 发布日志, Git</p>
-        <p><a href="https://yww006.github.io/up/https://github.com/cookpete/changelog-generator">立即使用 →</a></p>
-      ]]></description>
-      <category>写作</category>
     </item>
       
   </channel>
